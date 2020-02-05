@@ -97,3 +97,8 @@ Udacity: PyTorch Scholarship Challenge from Facebook
 A vast amount of different courses at Udemy, such as data structures and 
 algorithms, PyTorch Reinforcement learning etc.
 
+# Languages
+Russian - native
+English - good proffesional level
+Czech - good proffesional level
+
