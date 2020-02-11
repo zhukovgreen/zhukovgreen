@@ -34,20 +34,34 @@ I contribute to open-source projects (i.e.
 
 **System Architect | Machine learning engineer | Software team leader at Remak**
 
-Dates Employed Aug 2017 – Jan 2020
+Dates Employed Jan 2016 – Jan 2020
 
-Employment Duration 2 yrs 6 mos
+Employment Duration 4 yrs 1 mos
 
 Building a software platform to support new products and the company's processes.
 - leading the team of 4 developers, learning from them
 - determining backend architecture and technological stack
 - building microservices (Python, aiohttp, Docker, openAPI ...)
-- setting up CI pipelines for microservice unit and integrational tests and 
-deployment to the staging server
+- setting up CI pipelines for microservices
+- unit and integrational tests and deployment to the staging server
 - setting up app monitoring
-- applying machine learning techniques to complement the user experience. 
+- applying machine learning techniques to improve user experience. 
 Particularly speeding up the calculation processes (supervise learning, mostly 
 with gradient boosting, applying optimization with evolutionary algorithms)
+
+**HVAC (heating, ventilation and air conditioning) proffesional**
+
+Dates Employed May 2006 – Aug 2016
+
+Employment Duration 10 yrs 3 mos
+
+I was working in a variety of positions within the HVAC industry
+- Compact Air Handling Units (AHU) project manager (~ 1 year)
+- AHU technical support (~1 year)
+- HVAC designer (~5 years)
+- Energy modeler for LEED certification (~ 1 year)
+- Technical superviser on site (~1 years)
+- Ventilation systems installer (~1 year)
 
 # Projects 
 - Air handling units selection engine powered by machine learning
