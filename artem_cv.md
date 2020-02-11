@@ -8,14 +8,15 @@ zhukovgreen@icloud.com
 
 Software engineer and machine learning engineer with more than 4 years of 
 experience.
-Interested in building web applications, growing as a professional, learning new
-technologies, experimenting and building interesting products.
+Interested in building web applications and bots, complimented with
+machine learning, growing as a professional, learning new technologies,
+experimenting and building interesting products.
 
 # Tech stack
 
-- web, web applications, microservices, api
+- web, web applications, microservices, api, bots
 - python, aiohttp, numpy, pandas, pytorch, keras, scikit-learn, xgboost, opencv,
-freecad
+freecad, aiogram
 - linux, shell, git, docker, gitlab, postgresql, redis, openapi,
 swagger
 - vim, pycharm
