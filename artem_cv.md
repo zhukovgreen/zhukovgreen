@@ -15,8 +15,8 @@ experimenting and building interesting products.
 # Tech stack
 
 - web, web applications, microservices, api, bots
-- python, aiohttp, numpy, pandas, pytorch, keras, scikit-learn, xgboost, opencv,
-freecad, aiogram
+- python, aiohttp, numpy, pandas, scipy, pytorch, keras, scikit-learn, xgboost, 
+opencv, freecad, aiogram
 - linux, shell, git, docker, gitlab, postgresql, redis, openapi,
 swagger
 - vim, pycharm
@@ -116,4 +116,11 @@ algorithms, PyTorch Reinforcement learning etc.
 Russian - native
 English - good proffesional level
 Czech - good proffesional level
+
+# Social profiles
+- GitHub <https://github.com/zhukovgreen>
+- GitLab <https://gitlab.com/zhukovgreen>
+- StackOverflow <https://stackoverflow.com/users/4351027/artem-zhukov>
+- Twitter <https://twitter.com/zhukovgreen>
+- LinkedIn <https://www.linkedin.com/in/artem-zhukov-0556b422/>
 
