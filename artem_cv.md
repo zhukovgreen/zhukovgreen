@@ -8,9 +8,9 @@ zhukovgreen.io@gmail.com
 
 Software engineer and machine learning engineer with more than 4 years of 
 experience.
-Interested in building web applications and bots, complimented with
-machine learning, growing as a professional, learning new technologies,
-experimenting and building interesting products.
+Interested in DevOps, infrastructure automation, web applications and 
+bots. Compliment projects with machine learning, growing as a professional,
+learning new technologies, experimenting and building interesting products.
 
 # Tech stack
 
