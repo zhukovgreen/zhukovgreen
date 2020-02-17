@@ -8,7 +8,7 @@ zhukovgreen.io@gmail.com
 
 Software engineer and machine learning engineer with more than 4 years of 
 experience.
-Interested in DevOps, infrastructure automation, web applications and 
+Interested in web applications, DevOps, infrastructure automation, and 
 bots. Compliment projects with machine learning, growing as a professional,
 learning new technologies, experimenting and building interesting products.
 
@@ -17,10 +17,6 @@ learning new technologies, experimenting and building interesting products.
 - Linux operating systems
 - Containerization, distributed systems, cloud computing (Docker, AWS, 
 Kubernetes)
-- Automation (
-    CI/CD, Gitlab CI, Circle CI, Ansible, Python, docker-compose,
-    Kubernetes, Vagrant,
-)
 - Software development (
     web, web applications, microservices, apis, bots,
     testing, code linting,
@@ -28,6 +24,10 @@ Kubernetes)
 - Backend developer (
     python, aiohttp, numpy, pandas, scipy, pytorch, 
     keras, scikit-learn, xgboost, opencv, freecad, aiogram
+)
+- Automation (
+    CI/CD, Gitlab CI, Circle CI, Ansible, Python, docker-compose,
+    Kubernetes, Vagrant,
 )
 - Other tools (
     shell scripting, git, docker, gitlab, postgresql, redis, celery, openapi,
@@ -54,6 +54,27 @@ Employment Duration 4 yrs 1 mos
 
 Building a software platform to support new products and the company processes.
 
+
+**Team leadership:**
+- leading the team of 4 developers, learning from them
+- specified sprint epics, controlling team progress, reporting to the client
+- determining backend architecture and technological stack
+
+**Software developer:**
+- building async microservices (Python, aiohttp, Docker, openAPI ...)
+    - with the normal pythonic worker
+    - where worker was a CDLL of .NET assembly and applied different approaches 
+    in parallelization
+    - numeric microservices where main worker was a numpy or pytorch model
+    - Automate the openAPI spec definition with the help of swagger, attrs, 
+    marshmallow etc.
+- unit, integration and load testing
+    - primary with the pytest
+    - API mocking
+    - integration testing for microservices based application
+- documentation and code review
+- setting up CI pipelines for linting, testing and building images
+
 **DevOps:**
 - Setting up automatic deployment system with a help of Gitlab runners,
 docker-compose, shell scripting and Gitlab CI.
@@ -67,20 +88,12 @@ docker-compose, shell scripting and Gitlab CI.
 - Setting up app monitoring with help of Gitlab CI, Sentry and some scripting
 - Setting up app templating, pre-commit hooks for a team
 
-**Team leadership:**
-- leading the team of 4 developers, learning from them
-- determining backend architecture and technological stack
-
-**Software developer:**
-- building microservices (Python, aiohttp, Docker, openAPI ...)
-- unit, integration and load testing
-- setting up CI pipelines for linting, testing and building images
-
 **Machine learning engineer:**
 - applying machine learning to improve user experience. 
-Particularly speeding up the calculation processes (supervise learning, mostly 
-with gradient boosting and partly with the PyTorch, 
-applying optimization with evolutionary algorithms)
+    - Particularly speeding up the calculation processes
+    - Supervise learning, mostly with gradient boosting and partly with the 
+    combination of neural nets in PyTorch
+    - applying optimization with evolutionary algorithms (SicPy + PyTorch)
 
 ## HVAC (heating, ventilation and air conditioning) proffesional
 
