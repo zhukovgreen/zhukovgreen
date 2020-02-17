@@ -3,23 +3,37 @@
 <https://github.com/ZhukovGreen>
 
 Czech Republic, Roznov pod Radhostem
-zhukovgreen@icloud.com
+zhukovgreen.io@gmail.com
 +420774081898
 
 Software engineer and machine learning engineer with more than 4 years of 
 experience.
-Interested in building web applications and bots, complimented with
-machine learning, growing as a professional, learning new technologies,
-experimenting and building interesting products.
+Interested in DevOps, infrastructure automation, web applications and 
+bots. Compliment projects with machine learning, growing as a professional,
+learning new technologies, experimenting and building interesting products.
 
 # Tech stack
 
-- web, web applications, microservices, api, bots
-- python, aiohttp, numpy, pandas, scipy, pytorch, keras, scikit-learn, xgboost, 
-opencv, freecad, aiogram
-- linux, shell, git, docker, gitlab, postgresql, redis, openapi,
-swagger
-- vim, pycharm
+- Linux operating systems
+- Containerization, distributed systems, cloud computing (Docker, AWS, 
+Kubernetes)
+- Automation (
+    CI/CD, Gitlab CI, Circle CI, Ansible, Python, docker-compose,
+    Kubernetes, Vagrant,
+)
+- Software development (
+    web, web applications, microservices, apis, bots,
+    testing, code linting,
+)
+- Backend developer (
+    python, aiohttp, numpy, pandas, scipy, pytorch, 
+    keras, scikit-learn, xgboost, opencv, freecad, aiogram
+)
+- Other tools (
+    shell scripting, git, docker, gitlab, postgresql, redis, celery, openapi,
+    swagger, pre-commit
+)
+- vim, vim scripting
 
 # Free time
 
@@ -32,24 +46,43 @@ I contribute to open-source projects (i.e.
 
 # Experience
 
-**System Architect | Machine learning engineer | Software team leader at Remak**
+## System Architect | Machine learning engineer | Software team leader at Remak
 
 Dates Employed Jan 2016 – Jan 2020
 
 Employment Duration 4 yrs 1 mos
 
-Building a software platform to support new products and the company's processes.
+Building a software platform to support new products and the company processes.
+
+**DevOps:**
+- Setting up automatic deployment system with a help of Gitlab runners,
+docker-compose, shell scripting and Gitlab CI.
+- Writing Ansible and Vagrant scripts to deploy the app on Kubernetes
+- Containerization of a different applications for the needs of the team (
+    i.e. special cli version of FreeCAD, image with pythonnet support on
+    Linux and Mono, linux with wine integration to run windows assemblies on 
+    linux
+)
+- Building infrastructure automation for development and staging environments
+- Setting up app monitoring with help of Gitlab CI, Sentry and some scripting
+- Setting up app templating, pre-commit hooks for a team
+
+**Team leadership:**
 - leading the team of 4 developers, learning from them
 - determining backend architecture and technological stack
-- building microservices (Python, aiohttp, Docker, openAPI ...)
-- setting up CI pipelines for microservices
-- unit and integrational tests and deployment to the staging server
-- setting up app monitoring
-- applying machine learning techniques to improve user experience. 
-Particularly speeding up the calculation processes (supervise learning, mostly 
-with gradient boosting, applying optimization with evolutionary algorithms)
 
-**HVAC (heating, ventilation and air conditioning) proffesional**
+**Software developer:**
+- building microservices (Python, aiohttp, Docker, openAPI ...)
+- unit, integration and load testing
+- setting up CI pipelines for linting, testing and building images
+
+**Machine learning engineer:**
+- applying machine learning to improve user experience. 
+Particularly speeding up the calculation processes (supervise learning, mostly 
+with gradient boosting and partly with the PyTorch, 
+applying optimization with evolutionary algorithms)
+
+## HVAC (heating, ventilation and air conditioning) proffesional
 
 Dates Employed May 2006 – Aug 2016
 
