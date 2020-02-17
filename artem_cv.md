@@ -52,7 +52,22 @@ Dates Employed Jan 2016 – Jan 2020
 
 Employment Duration 4 yrs 1 mos
 
-Building a software platform to support new products and the company's processes.
+Building a software platform to support new products and the company processes.
+
+**DevOps:**
+- Setting up automatic deployment system with a help of Gitlab runners,
+docker-compose, shell scripting and Gitlab CI.
+- Writing Ansible and Vagrant scripts to deploy the app on Kubernetes
+- Containerization of a different applications for the needs of the team (
+    i.e. special cli version of FreeCAD, image with pythonnet support on
+    Linux and Mono, linux with wine integration to run windows assemblies on 
+    linux
+)
+- Building infrastructure automation for development and staging environments
+- Setting up app monitoring with help of Gitlab CI, Sentry and some scripting
+- Setting up app templating, pre-commit hooks for a team
+
+**Team leadership:**
 - leading the team of 4 developers, learning from them
 - determining backend architecture and technological stack
 - building microservices (Python, aiohttp, Docker, openAPI ...)
