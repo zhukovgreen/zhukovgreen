@@ -3,7 +3,7 @@
 <https://github.com/ZhukovGreen>
 
 Czech Republic, Roznov pod Radhostem
-zhukovgreen@icloud.com
+zhukovgreen.io@gmail.com
 +420774081898
 
 Software engineer and machine learning engineer with more than 4 years of 
