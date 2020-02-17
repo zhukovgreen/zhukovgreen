@@ -14,12 +14,26 @@ learning new technologies, experimenting and building interesting products.
 
 # Tech stack
 
-- web, web applications, microservices, api, bots
-- python, aiohttp, numpy, pandas, scipy, pytorch, keras, scikit-learn, xgboost, 
-opencv, freecad, aiogram
-- linux, shell, git, docker, gitlab, postgresql, redis, openapi,
-swagger
-- vim, pycharm
+- Linux operating systems
+- Containerization, distributed systems, cloud computing (Docker, AWS, 
+Kubernetes)
+- Automation (
+    CI/CD, Gitlab CI, Circle CI, Ansible, Python, docker-compose,
+    Kubernetes, Vagrant,
+)
+- Software development (
+    web, web applications, microservices, apis, bots,
+    testing, code linting,
+)
+- Backend developer (
+    python, aiohttp, numpy, pandas, scipy, pytorch, 
+    keras, scikit-learn, xgboost, opencv, freecad, aiogram
+)
+- Other tools (
+    shell scripting, git, docker, gitlab, postgresql, redis, celery, openapi,
+    swagger, pre-commit
+)
+- vim, vim scripting
 
 # Free time
 
