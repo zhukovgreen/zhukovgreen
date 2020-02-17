@@ -46,7 +46,7 @@ I contribute to open-source projects (i.e.
 
 # Experience
 
-**System Architect | Machine learning engineer | Software team leader at Remak**
+## System Architect | Machine learning engineer | Software team leader at Remak
 
 Dates Employed Jan 2016 – Jan 2020
 
@@ -63,7 +63,7 @@ Building a software platform to support new products and the company's processes
 Particularly speeding up the calculation processes (supervise learning, mostly 
 with gradient boosting, applying optimization with evolutionary algorithms)
 
-**HVAC (heating, ventilation and air conditioning) proffesional**
+## HVAC (heating, ventilation and air conditioning) proffesional
 
 Dates Employed May 2006 – Aug 2016
 
