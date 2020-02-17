@@ -70,13 +70,17 @@ docker-compose, shell scripting and Gitlab CI.
 **Team leadership:**
 - leading the team of 4 developers, learning from them
 - determining backend architecture and technological stack
+
+**Software developer:**
 - building microservices (Python, aiohttp, Docker, openAPI ...)
-- setting up CI pipelines for microservices
-- unit and integrational tests and deployment to the staging server
-- setting up app monitoring
-- applying machine learning techniques to improve user experience. 
+- unit, integration and load testing
+- setting up CI pipelines for linting, testing and building images
+
+**Machine learning engineer:**
+- applying machine learning to improve user experience. 
 Particularly speeding up the calculation processes (supervise learning, mostly 
-with gradient boosting, applying optimization with evolutionary algorithms)
+with gradient boosting and partly with the PyTorch, 
+applying optimization with evolutionary algorithms)
 
 ## HVAC (heating, ventilation and air conditioning) proffesional
 
