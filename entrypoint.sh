@@ -1,6 +1,6 @@
 set -ex
 
-for FILE in "$@"
+for FILE in *.md
 do
    case "$FILE" in
    *.md)

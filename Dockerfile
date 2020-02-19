@@ -8,10 +8,14 @@ RUN apk --update --upgrade add gcc \
     libffi-dev \
     cairo-dev \
     pango-dev \
+    openssl-dev \
+    git \
     gdk-pixbuf-dev
 RUN pip3 install weasyprint
-FROM base as setup
+RUN pip3 install poetry
 WORKDIR "/source"
+COPY pyproject.toml poetry.lock /source/
+RUN poetry install
+FROM base as setup
 COPY . .
 ENTRYPOINT ["sh", "entrypoint.sh"]
-CMD ["artem_cl.md", "artem_cv.md"]
