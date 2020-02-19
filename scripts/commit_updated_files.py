@@ -22,18 +22,22 @@ logger.info("Github authenticated")
 
 repo: Repository = g.get_repo("ZhukovGreen/CV")
 logger.info("Repository loaded")
-for pdf in (f for f in local_repo.untracked_files if f[-3:] == "pdf"):
+for file in (
+    f
+    for f in local_repo.untracked_files
+    if f[-3:] == "pdf" or f == "README.md"
+):
     try:
         contents_sha = repo.get_contents(
-            pdf, ref=local_repo.active_branch.name
+            file, ref=local_repo.active_branch.name
         ).sha
     except UnknownObjectException:
         contents_sha = ""
     response = repo.update_file(
-        path=pdf,
+        path=file,
         sha=contents_sha,
-        content=(ROOT_PATH / pdf).read_bytes(),
-        message=f"Added {pdf} [skip ci]",
+        content=(ROOT_PATH / file).read_bytes(),
+        message=f"Added {file} [skip ci]",
         branch=local_repo.active_branch.name,
     )
-    logger.info(f"File {pdf} was added with the commit {response['commit']}")
+    logger.info(f"File {file} was added with the commit {response['commit']}")
