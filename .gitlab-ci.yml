@@ -3,7 +3,7 @@ services:
   - docker:19.03-dind
 
 before_script:
-  - apt install git
+  - apk add --no-cache git
 
 stages:
   - build
