@@ -33,7 +33,7 @@ for pdf in (f for f in local_repo.untracked_files if f[-3:] == "pdf"):
         path=pdf,
         sha=contents_sha,
         content=(ROOT_PATH / pdf).read_bytes(),
-        message=f"Added {pdf}",
+        message=f"Added {pdf} [skip ci]",
         branch=local_repo.active_branch.name,
     )
     logger.info(f"File {pdf} was added with the commit {response['commit']}")
