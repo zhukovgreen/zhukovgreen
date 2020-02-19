@@ -1,6 +1,8 @@
 version: '3.7'
 services:
   pdf_generator:
+    environment:
+      - GITHUB_TOKEN: ${GITHUB_TOKEN}
     build:
       context: .
       dockerfile: Dockerfile
