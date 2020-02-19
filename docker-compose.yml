@@ -3,6 +3,7 @@ services:
   pdf_generator:
     environment:
       - GITHUB_TOKEN=${GITHUB_TOKEN}
+      - DEBUG=${DEBUG}
     build:
       context: .
       dockerfile: Dockerfile
