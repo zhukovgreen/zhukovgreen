@@ -93,7 +93,7 @@ docker-compose, shell scripting and Gitlab CI.
     - Particularly speeding up the calculation processes
     - Supervise learning, mostly with gradient boosting and partly with the 
     combination of neural nets in PyTorch
-    - applying optimization with evolutionary algorithms (SicPy + PyTorch)
+    - applying optimization with evolutionary algorithms (SciPy + PyTorch)
 
 ## HVAC (heating, ventilation and air conditioning) proffesional
 
