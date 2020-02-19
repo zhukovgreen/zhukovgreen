@@ -1,0 +1,22 @@
+[tool.black]
+line-length=79
+target-version=["py38"]
+
+[tool.poetry]
+name = "cv"
+version = "0.1.0"
+description = ""
+authors = ["ZhukovGreen <zhukovgreen@icloud.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pygithub = "^1.46"
+envparse = "^0.2.0"
+gitpython = "^3.0.8"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.3.5"
+
+[build-system]
+requires = ["poetry>=1.0.3"]
+build-backend = "poetry.masonry.api"
