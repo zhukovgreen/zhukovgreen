@@ -45,6 +45,7 @@ for file in (
                 f"Branch {branch_name} matches the "
                 f"commit {local_repo.head.commit.hexsha}"
             )
+            break
     try:
         contents_sha = repo.get_contents(
             file, ref=local_repo.head.commit.hexsha
