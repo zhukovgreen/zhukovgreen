@@ -1,0 +1,13 @@
+image: tmaier/docker-compose:18.09
+services:
+  - docker:18.09-dind
+
+stages:
+  - build
+
+build:
+  stage: build
+  script:
+    - docker-compose run pdf_generator
+    - cat artem_cv.md > README.md
+    - git add . && git commit -m "Update pdfs" && git push -o skip.ci
