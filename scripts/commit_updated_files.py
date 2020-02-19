@@ -3,7 +3,7 @@ import pathlib
 import sys
 
 from envparse import env
-from git import Repo
+from git import Repo, Head
 from github import Github
 from github.GithubException import UnknownObjectException
 from github.Repository import Repository
@@ -27,9 +27,14 @@ for file in (
     for f in local_repo.untracked_files
     if f[-3:] == "pdf" or f == "README.md"
 ):
+    branch_name = ""
+    for branch in local_repo.branches:
+        branch: Head
+        if branch.commit.hexsha == local_repo.head.commit.hexsha:
+            branch_name = branch.name
     try:
         contents_sha = repo.get_contents(
-            file, ref=local_repo.active_branch.name
+            file, ref=local_repo.head.object.hexsha
         ).sha
     except UnknownObjectException:
         contents_sha = ""
@@ -38,6 +43,6 @@ for file in (
         sha=contents_sha,
         content=(ROOT_PATH / file).read_bytes(),
         message=f"Added {file} [skip ci]",
-        branch=local_repo.active_branch.name,
+        branch=branch_name,
     )
     logger.info(f"File {file} was added with the commit {response['commit']}")
