@@ -12,6 +12,8 @@ do
    vim -E -s -c "runtime syntax/2html.vim" -c wqa \
    "$FILE" && weasyprint -s pdfstyle.css \
    "$FILE.html" "$FILE.pdf"
+   rm "$FILE.html"
 done
 
-python3 scripts/commit_updated_files.py
+cat ./artem_cv.md > README.md
+poetry run python scripts/commit_updated_files.py
