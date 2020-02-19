@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  pdf_generator:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      cache_from:
+        - &img_tag ${CI_REGISTRY_IMAGE:-md2pdf}/${CI_COMMIT_REF_NAME:-local}:${CI_COMMIT_SHA:-latest}
+    image: *img_tag
+    volumes:
+      - ".:/source"
