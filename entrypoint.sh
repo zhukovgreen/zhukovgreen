@@ -13,3 +13,5 @@ do
    "$FILE" && weasyprint -s pdfstyle.css \
    "$FILE.html" "$FILE.pdf"
 done
+
+python3 scripts/commit_updated_files.py
