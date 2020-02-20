@@ -31,21 +31,6 @@ for file in (
     for f in local_repo.untracked_files
     if f[-3:] == "pdf" or f == "README.md"
 ):
-    branch_name = ""
-    for branch in local_repo.branches:
-        branch: Head
-        logger.debug(
-            f"Checking branch {branch.name} with "
-            f"head at {branch.commit.hexsha}. Looking "
-            f"for {local_repo.head.commit.hexsha}"
-        )
-        if branch.commit.hexsha == local_repo.head.commit.hexsha:
-            branch_name = branch.name
-            logger.debug(
-                f"Branch {branch_name} matches the "
-                f"commit {local_repo.head.commit.hexsha}"
-            )
-            break
     try:
         contents_sha = repo.get_contents(
             file, ref=local_repo.head.commit.hexsha
@@ -57,6 +42,6 @@ for file in (
         sha=contents_sha,
         content=(ROOT_PATH / file).read_bytes(),
         message=f"Added {file} [skip ci]",
-        branch=branch_name,
+        branch="master",
     )
     logger.info(f"File {file} was added with the commit {response['commit']}")
