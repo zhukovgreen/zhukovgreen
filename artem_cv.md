@@ -8,9 +8,13 @@
 
 Software engineer and machine learning engineer with more than 4 years of 
 experience.
+
 Interested in web applications, DevOps, infrastructure automation, and 
 bots. Compliment projects with machine learning, growing as a professional,
 learning new technologies, experimenting and building interesting products.
+
+I am pedantic in terms of a writing a clean and simple code, 
+testing and documenting my work.
 
 # Tech stack
 
@@ -18,30 +22,30 @@ learning new technologies, experimenting and building interesting products.
 - Containerization, distributed systems, cloud computing (Docker, AWS, 
 Kubernetes)
 - Software development (
-    web, web applications, microservices, apis, bots,
-    testing, code linting,
+    `web`, `web applications`, `microservices`, `apis`, `bots`,
+    `testing`, `code linting`,
 )
 - Backend developer (
-    python, aiohttp, numpy, pandas, scipy, pytorch, 
-    keras, scikit-learn, xgboost, opencv, freecad, aiogram
+    `python`, `asyncio`, `aiohttp`, `numpy`, `pandas`, `scipy`, `pytorch`, 
+    `keras`, `scikit-learn`, `xgboost`, `opencv`, `freecad`, `aiogram`
 )
 - Automation (
-    CI/CD, Gitlab CI, Circle CI, Ansible, Python, docker-compose,
-    Kubernetes, Vagrant,
+    `CI/CD`, `Gitlab CI`, `Circle CI`, `Ansible`, `Python`, `docker-compose`,
+    `Kubernetes`, `Vagrant`,
 )
 - Other tools (
-    shell scripting, git, docker, gitlab, postgresql, redis, celery, openapi,
-    swagger, pre-commit
+    `shell scripting`, `git`, `docker`, `gitlab`, `postgresql`, `redis`, 
+    `celery`, `openapi`,`swagger`, `pre-commit`
 )
-- vim, vim scripting
+- `vim`, `vim scripting`
 
 # Free time
 
 I contribute to open-source projects (i.e. 
-<https://github.com/cr0hn/aiohttp-cache>, 
-<https://github.com/webknjaz/docker-freecad-cli>,
+    <https://github.com/cr0hn/aiohttp-cache>, 
+    <https://github.com/webknjaz/docker-freecad-cli>,
 ), writing telegram bots (i.e. 
-<https://github.com/ZhukovGreen/gcal_time_track_tg_bot>,
+    <https://github.com/ZhukovGreen/gcal_time_track_tg_bot>,
 ), testing different neural nets architectures and learning new things. 
 
 # Experience
@@ -111,28 +115,24 @@ I was working in a variety of positions within the HVAC industry
 
 # Projects 
 - Air handling units selection engine powered by machine learning
-- <https://gitlab.com/remak-dva/docker-freecad-cli>
-- <https://gitlab.com/zhukovgreen/pozemky> - This is how I bought  my home
-- <https://github.com/ZhukovGreen/gcal_time_track_tg_bot> - This is how I used to 
-track my time
+- Cli version of FreeCAD
+    <https://gitlab.com/remak-dva/docker-freecad-cli>
+- This is how I bought  my home
+    <https://gitlab.com/zhukovgreen/pozemky>
+- This is how I used to track my time
+    <https://github.com/ZhukovGreen/gcal_time_track_tg_bot>
 - Dog breed identification 
-<https://github.com/ZhukovGreen/dog-project/blob/master/dog_app.ipynb>
+    <https://github.com/ZhukovGreen/dog-project/blob/master/dog_app.ipynb>
 - Reinforcement learning 
-<https://github.com/ZhukovGreen/machine-learning/blob/submission/smartcab/projects/smartcab/smartcab/agent.py>
-- Supervise learning problem <https://github.com/ZhukovGreen/UMLND/blob/d7a1326247705cac90120c266ca6296e7b19e257/finding_donors/finding_donors.ipynb>
-- PyTorch, transfer learning <https://github.com/ZhukovGreen/pytorch-scholarship-challenge>
-- Unsupervised learning problem 
-<https://github.com/ZhukovGreen/machine-learning/blob/submission/costumer-segments/projects/customer_segments/customer_segments.ipynb>
+    <https://github.com/ZhukovGreen/machine-learning/blob/submission/smartcab/projects/smartcab/smartcab/agent.py>
+- Supervise learning problem
+    <https://github.com/ZhukovGreen/UMLND/blob/d7a1326247705cac90120c266ca6296e7b19e257/finding_donors/finding_donors.ipynb>
+- PyTorch, transfer learning
+    <https://github.com/ZhukovGreen/pytorch-scholarship-challenge>
+- Unsupervised learning problem
+    <https://github.com/ZhukovGreen/machine-learning/blob/submission/costumer-segments/projects/customer_segments/customer_segments.ipynb>
 
 # Education
-## Udacity
-
-Degree Name Nano-degree
-Field Of Study Machine Learning
-Grade Nano-degree
-Dates attended or expected graduation 2016 – 2018
-
-<https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009>
 
 ## Stanford University Online
 
@@ -144,6 +144,16 @@ Dates attended or expected graduation 2016 – 2017
 I passed through all lectures videos and keynotes, resolved all assignments.
 Course syllabus: <http://cs229.stanford.edu/syllabus.html>
 
+## Udacity
+
+Degree Name Nano-degree
+Field Of Study Machine Learning
+Grade Nano-degree
+Dates attended or expected graduation 2016 – 2018
+
+<https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009>
+
+
 ## Donbass State Academy of Civil Engineering and Architecture
 
 Degree Name Master’s Degree
@@ -151,11 +161,14 @@ Field Of Study Mechanical Engineering (HVAC)
 Grade M.Sc. in heating, ventilation, air conditioning systems
 Dates attended or expected graduation 2002 – 2008
 
+This is my primary base education. A lot of mathematics, physics and drawings.
+
 
 # Courses
 
-Udacity: PyTorch Scholarship Challenge from Facebook
-A vast amount of different courses at Udemy, such as data structures and 
+- Udacity: PyTorch Scholarship Challenge from Facebook
+
+- A vast amount of different courses at Udemy, such as data structures and 
 algorithms, PyTorch Reinforcement learning etc.
 
 # Languages
