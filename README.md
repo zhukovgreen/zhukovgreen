@@ -1,6 +1,6 @@
 # Artem Zhukov CV
 
-<https://github.com/ZhukovGreen>
+Github <https://github.com/ZhukovGreen>
 
 - [X] Czech Republic, Roznov pod Radhostem
 - [X] [zhukovgreen.io@gmail.com](mailto:zhukovgreen.io@gmail.com)
