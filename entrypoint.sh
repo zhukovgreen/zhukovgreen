@@ -17,3 +17,4 @@ done
 
 cat ./artem_cv.md > README.md
 poetry run python scripts/commit_updated_files.py
+echo "\n\nAll jobs done successfully!\n\n"
