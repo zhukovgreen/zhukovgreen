@@ -12,5 +12,3 @@ build:
   stage: build
   script:
     - docker-compose run pdf_generator
-    - cat artem_cv.md > README.md
-    - git add . && git commit -m "Update pdfs" && git push -o skip.ci
