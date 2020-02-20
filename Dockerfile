@@ -1,4 +1,4 @@
-FROM thinca/vim as base
+FROM thinca/vim:latest-full as base
 RUN apk --update --upgrade add gcc \
     fontconfig \
     python3-dev \
