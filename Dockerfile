@@ -1,6 +1,6 @@
 FROM thinca/vim:latest-full as base
 RUN apk --update --upgrade add gcc \
-    fontconfig \
+    ttf-dejavu \
     python3-dev \
     musl-dev \
     jpeg-dev \
@@ -10,7 +10,10 @@ RUN apk --update --upgrade add gcc \
     pango-dev \
     openssl-dev \
     git \
-    gdk-pixbuf-dev
+    fontconfig \
+    ca-certificates \
+    py3-lxml \
+    gdk-pixbuf
 RUN pip3 install weasyprint
 RUN pip3 install poetry
 WORKDIR "/source"
