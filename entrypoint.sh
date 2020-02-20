@@ -17,7 +17,7 @@ if [ $# -eq 0 ]
        -c "runtime syntax/2html.vim" \
        -c wqa "$FILE" && weasyprint -s pdfstyle.css \
        "$FILE.html" "$FILE.pdf"
-#       rm "$FILE.html"
+       rm "$FILE.html"
     done
 
     cat ./artem_cv.md > README.md

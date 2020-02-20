@@ -3,7 +3,7 @@ import pathlib
 import sys
 
 from envparse import env
-from git import Repo, Head
+from git import Repo
 from github import Github
 from github.GithubException import UnknownObjectException
 from github.Repository import Repository
@@ -28,7 +28,8 @@ repo: Repository = g.get_repo("ZhukovGreen/CV")
 logger.info("Repository loaded")
 for file in (
     f
-    for f in local_repo.untracked_files
+    for f in [f.a_path for f in local_repo.index.diff(None)]
+    + local_repo.untracked_files
     if f[-3:] == "pdf" or f == "README.md"
 ):
     try:
