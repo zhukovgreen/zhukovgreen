@@ -172,9 +172,9 @@ This is my primary base education. A lot of mathematics, physics and drawings.
 algorithms, PyTorch Reinforcement learning etc.
 
 # Languages
-Russian - native
-English - good proffesional level
-Czech - good proffesional level
+- Russian - native
+- English - good proffesional level
+- Czech - good proffesional level
 
 # Social profiles
 - GitHub <https://github.com/zhukovgreen>
