@@ -2,8 +2,22 @@ image: tmaier/docker-compose:18.09
 services:
   - docker:19.03-dind
 
+cache:
+  paths:
+    - ${CI_PROJECT_DIR}/.cache
+
+variables:
+  IMAGE_TAG: ${CI_REGISTRY_IMAGE}/${CI_COMMIT_REF_NAME}:${CI_COMMIT_SHA}
+  DEPLOY_TAG: ${CI_REGISTRY_IMAGE}/${CI_COMMIT_REF_NAME}:latest
+
 before_script:
-  - apk add --no-cache git
+  - docker version
+  - docker-compose version
+  - docker login -u gitlab-ci-token -p ${CI_JOB_TOKEN} ${CI_REGISTRY}
+
+after_script:
+  - docker images
+  - docker logout ${CI_REGISTRY}
 
 stages:
   - build
@@ -12,11 +26,20 @@ stages:
 build:
   stage: build
   script:
+    - docker-compose build --pull
+    - docker tag ${IMAGE_TAG} ${DEPLOY_TAG}
+    - docker-compose push ${DEPLOY_TAG}
+
+deploy:
+  stage: deploy
+  script:
+    - docker-compose pull -q
     - docker-compose run pdf_generator
 
 pages:
   stage: deploy
   script:
+  - docker-compose pull -q
   - docker-compose run deploy_pages
   - mv site public
   artifacts:
