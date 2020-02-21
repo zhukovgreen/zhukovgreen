@@ -14,7 +14,6 @@ RUN apk --update --upgrade add gcc \
     ca-certificates \
     py3-lxml \
     gdk-pixbuf
-RUN pip3 install weasyprint
 RUN pip3 install poetry
 WORKDIR "/source"
 COPY pyproject.toml poetry.lock /source/

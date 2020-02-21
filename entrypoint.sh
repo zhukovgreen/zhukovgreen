@@ -8,7 +8,7 @@ if [ $# -eq 0 ]
     -c "syntax on" \
     -c "let g:html_no_progres=1" \
     -c "runtime syntax/2html.vim" \
-    -c wqa "$CV" && weasyprint -s pdfstyle.css \
+    -c wqa "$CV" && poetry run weasyprint -s pdfstyle.css \
     "$CV.html" "$CV.pdf"
     rm "$CV.html"
     cat "$CV" > "./README.md"

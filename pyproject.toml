@@ -16,6 +16,7 @@ gitpython = "^3.0.8"
 mkdocs = "^1.0.4"
 markdown-include = "^0.5.1"
 mkdocs-material = "^4.6.3"
+weasyprint = "^51"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.3.5"
