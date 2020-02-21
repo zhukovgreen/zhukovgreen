@@ -1,7 +1,7 @@
 
 # About me
-<div style="width:40%; margin:0 auto">
-   <img src="./me.jpg" alt="image with relative link">
+<div style="width:45%; margin:0 auto">
+   <img src="./me.jpg">
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
    <a href="https://t.me/zhukovgreen" class="fa fa-telegram fa-3x"></a>
    <a href="https://twitter.com/zhukovgreen" class="fa fa-twitter fa-3x"></a>
@@ -9,6 +9,8 @@
    <a href="https://gitlab.com/zhukovgreen" class="fa fa-gitlab fa-3x"></a>
    <a href="https://stackoverflow.com/users/4351027/artem-zhukov" class="fa fa-stack-overflow fa-3x"></a>
    <a href="https://www.linkedin.com/in/artem-zhukov-0556b422/" class="fa fa-linkedin fa-3x"></a>
+</div>
+<div style="width:30%; margin:40px auto">
    <a href="mailto:iam@zhukovgreen.pro" class="fa fa-envelope-open fa-3x"></a>
    <a href="https://calendar.google.com/calendar/embed?src=zhukovgreen.io%40gmail.com&ctz=Europe%2FPrague" class="fa fa-calendar fa-3x"></a>
    <a href="tel:+420-774-081-898" class="fa fa-phone fa-3x"></a>
