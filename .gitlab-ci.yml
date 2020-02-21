@@ -28,7 +28,7 @@ build:
   script:
     - docker-compose build --pull
     - docker tag ${IMAGE_TAG} ${DEPLOY_TAG}
-    - docker-compose push ${DEPLOY_TAG}
+    - docker push ${DEPLOY_TAG}
 
 deploy:
   stage: deploy
