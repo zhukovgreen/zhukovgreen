@@ -4,6 +4,7 @@ CV="./docs/artem_cv.md"
 
 if [ $# -eq 0 ]
   then
+    echo "Generating pdf from $CV"
     vim -E -s \
     -c "syntax on" \
     -c "let g:html_no_progres=1" \
@@ -11,7 +12,9 @@ if [ $# -eq 0 ]
     -c wqa "$CV" && poetry run weasyprint -s pdfstyle.css \
     "$CV.html" "$CV.pdf"
     rm "$CV.html"
+    echo "Updating README.md"
     cat "$CV" > "./README.md"
+    echo "Running script to update the github repo with new files"
     poetry run python scripts/commit_updated_files.py
     echo "\n\nAll jobs done successfully!\n\n"
 fi
