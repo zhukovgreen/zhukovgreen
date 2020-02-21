@@ -1,0 +1,29 @@
+site_name: zhukovgreen's website
+site_url: https://zhukovgreen.pro
+site_description: zhukovgreen's website
+theme:
+  name: 'material'
+  palette:
+    primary: 'teal'
+    accent: 'amber'
+
+repo_name: "My GitHub"
+repo_url: https://github.com/zhukovgreen
+edit_uri: ''
+
+nav:
+  - About me: 'index.md'
+  - CV: 'artem_cv.md'
+  - Downloads: 'downloads.md'
+
+markdown_extensions:
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown_include.include:
+      base_path: docs
+  - admonition
+  - codehilite
+  - extra
+  - toc:
+      permalink: true
+

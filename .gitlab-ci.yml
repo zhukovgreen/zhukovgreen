@@ -7,8 +7,22 @@ before_script:
 
 stages:
   - build
+  - deploy
 
 build:
   stage: build
   script:
     - docker-compose run pdf_generator
+
+pages:
+  stage: deploy
+  script:
+  - docker-compose run deploy_pages
+  - mv site public
+  artifacts:
+    paths:
+    - public
+    expire_in: 2 days
+  only:
+  - master
+
