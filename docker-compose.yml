@@ -21,4 +21,5 @@ services:
     image: *img_tag
     volumes:
       - ".:/source"
+    command: poetry run mkdocs build
 
