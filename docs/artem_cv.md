@@ -183,4 +183,3 @@ algorithms, PyTorch Reinforcement learning etc.
 - StackOverflow <https://stackoverflow.com/users/4351027/artem-zhukov>
 - Twitter <https://twitter.com/zhukovgreen>
 - LinkedIn <https://www.linkedin.com/in/artem-zhukov-0556b422/>
-
