@@ -4,8 +4,8 @@
 Github <https://github.com/ZhukovGreen>
 
 - [X] Czech Republic, Roznov pod Radhostem
-- [X] [zhukovgreen.io@gmail.com](mailto:zhukovgreen.io@gmail.com)
-- [X] +420774081898
+- [X] [iam@zhukovgreen.pro](mailto:iam@zhukovgreen.pro)
+- [X] [+420774081898](tel:+420774081898)
 
 Software engineer and machine learning engineer with more than 4 years of 
 experience.
