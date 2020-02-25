@@ -16,14 +16,14 @@
 ----------------------
 Hi, my name is Artem Zhukov,
 
-I am Software engineer and machine learning engineer with more than 4 years of 
+I am a Software engineer and machine learning engineer with more than 4 years of 
 experience.
 
 Interested in web applications, DevOps, infrastructure automation, and 
 bots. Compliment projects with machine learning, growing as a professional,
 learning new technologies, experimenting and building interesting products.
 
-I am pedantic in terms of a writing a clean and simple code, 
+I am pedantic in terms of writing clean and simple code, 
 testing and documenting my work.
 
 # My tech stack

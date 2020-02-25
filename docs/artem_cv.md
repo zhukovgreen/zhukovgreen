@@ -14,7 +14,7 @@ Interested in web applications, DevOps, infrastructure automation, and
 bots. Compliment projects with machine learning, growing as a professional,
 learning new technologies, experimenting and building interesting products.
 
-I am pedantic in terms of a writing clean and simple code, 
+I am pedantic in terms of writing clean and simple code, 
 testing and documenting my work.
 
 # Tech stack
@@ -57,7 +57,7 @@ Dates Employed Jan 2016 – Jan 2020
 
 Employment Duration 4 yrs 1 mos
 
-Building a software platform to support new products and the company processes.
+Building a software platform to support new products and company processes.
 
 
 **Team leadership:**
@@ -68,9 +68,9 @@ Building a software platform to support new products and the company processes.
 **Software developer:**
 - building async microservices (Python, aiohttp, Docker, openAPI ...)
     - with the normal pythonic worker
-    - where worker was a CDLL of .NET assembly and applied different approaches 
-    in parallelization
-    - numeric microservices where main worker was a numpy or pytorch model
+    - where the worker was a CDLL of .NET assembly and applied 
+    different approaches in parallelization
+    - numeric microservices where the main worker was a numpy or pytorch model
     - Automate the openAPI spec definition with the help of swagger, attrs, 
     marshmallow etc.
 - unit, integration and load testing
@@ -78,19 +78,19 @@ Building a software platform to support new products and the company processes.
     - API mocking
     - integration testing for microservices based application
 - documentation and code review
-- setting up CI pipelines for linting, testing and building images
+- setting up CI pipelines for linting, testing, and building images
 
 **DevOps:**
-- Setting up automatic deployment system with a help of Gitlab runners,
-docker-compose, shell scripting and Gitlab CI.
+- Setting up automatic deployment system with the help of Gitlab runners,
+docker-compose, shell scripting, and Gitlab CI.
 - Writing Ansible and Vagrant scripts to deploy the app on Kubernetes
-- Containerization of a different applications for the needs of the team (
-    i.e. special cli version of FreeCAD, image with pythonnet support on
+- Containerization of different applications for the needs of the team (
+    i.e. special cli version of FreeCAD, the image with pythonnet support on
     Linux and Mono, linux with wine integration to run windows assemblies on 
     linux
 )
 - Building infrastructure automation for development and staging environments
-- Setting up app monitoring with help of Gitlab CI, Sentry and some scripting
+- Setting up app monitoring with the help of Gitlab CI, Sentry and some scripting
 - Setting up app templating, pre-commit hooks for a team
 
 **Machine learning engineer:**
@@ -100,7 +100,7 @@ docker-compose, shell scripting and Gitlab CI.
     combination of neural nets in PyTorch
     - applying optimization with evolutionary algorithms (SciPy + PyTorch)
 
-## HVAC (heating, ventilation and air conditioning) proffesional
+## HVAC (heating, ventilation and air conditioning) professional
 
 Dates Employed May 2006 – Aug 2016
 
@@ -111,7 +111,7 @@ I was working in a variety of positions within the HVAC industry
 - AHU technical support (~1 year)
 - HVAC designer (~5 years)
 - Energy modeler for LEED certification (~ 1 year)
-- Technical superviser on site (~1 years)
+- Technical supervisor on site (~1 years)
 - Ventilation systems installer (~1 year)
 
 # Projects 
@@ -162,7 +162,7 @@ Field Of Study Mechanical Engineering (HVAC)
 Grade M.Sc. in heating, ventilation, air conditioning systems
 Dates attended or expected graduation 2002 – 2008
 
-This is my primary base education. A lot of mathematics, physics and drawings.
+This is my primary base education. A lot of mathematics, physics, and drawings.
 
 
 # Courses
