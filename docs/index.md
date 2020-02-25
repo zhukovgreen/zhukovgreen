@@ -10,7 +10,7 @@
    <a href="https://stackoverflow.com/users/4351027/artem-zhukov" class="fa fa-stack-overflow fa-2x"></a>
    <a href="https://www.linkedin.com/in/artem-zhukov-0556b422/" class="fa fa-linkedin fa-2x"></a>
    <a href="mailto:iam@zhukovgreen.pro" class="fa fa-envelope-open fa-2x"></a>
-   <a href="https://calendar.google.com/calendar/embed?src=zhukovgreen.io%40gmail.com&ctz=Europe%2FPrague" class="fa fa-calendar fa-2x"></a>
+   <a href="https://calendar.google.com/calendar/embed?src=zhukovgreen.io%40gmail.com" class="fa fa-calendar fa-2x"></a>
    <a href="tel:+420-774-081-898" class="fa fa-phone fa-2x"></a>
 </div>
 ----------------------
