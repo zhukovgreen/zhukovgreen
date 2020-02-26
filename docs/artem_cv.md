@@ -1,7 +1,7 @@
 [download pdf version](https://github.com/ZhukovGreen/CV/raw/master/docs/artem_cv.md.pdf)
 # Artem Zhukov CV
 
-Github <https://github.com/ZhukovGreen>
+Personal website <https://zhukovgreen.pro>
 
 - [X] Czech Republic, Roznov pod Radhostem
 - [X] [iam@zhukovgreen.pro](mailto:iam@zhukovgreen.pro)
