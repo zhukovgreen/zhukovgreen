@@ -20,6 +20,7 @@ weasyprint = "^51"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.3.5"
+neovim = "^0.3.1"
 
 [build-system]
 requires = ["poetry>=1.0.3"]
