@@ -7,7 +7,7 @@ Personal website <https://zhukovgreen.pro>
 - [X] [iam@zhukovgreen.pro](mailto:iam@zhukovgreen.pro)
 - [X] [+420774081898](tel:+420774081898)
 
-Software engineer and machine learning engineer with more than 4 years of 
+Software and machine learning engineer with more than 4 years of 
 experience.
 
 Interested in web applications, DevOps, infrastructure automation, and 
@@ -115,7 +115,10 @@ I was working in a variety of positions within the HVAC industry
 - Ventilation systems installer (~1 year)
 
 # Projects 
-- Air handling units selection engine powered by machine learning
+- Air handling units selection engine powered by machine learning (unable to
+share becasue of NDA)
+- Cli utility mimicking docker cp
+    <https://github.com/ZhukovGreen/docker-cp>
 - Cli version of FreeCAD
     <https://gitlab.com/remak-dva/docker-freecad-cli>
 - This is how I bought  my home
