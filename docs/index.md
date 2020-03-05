@@ -11,7 +11,7 @@
    <a href="https://www.linkedin.com/in/artem-zhukov-0556b422/" class="fa fa-linkedin fa-2x"></a>
    <a href="mailto:iam@zhukovgreen.pro" class="fa fa-envelope-open fa-2x"></a>
    <a href="https://calendar.google.com/calendar/embed?src=zhukovgreen.io%40gmail.com" class="fa fa-calendar fa-2x"></a>
-   <a href="https:whereby.com/zhukovgreen" class="fa fa-video-camera fa-2x"></a>
+   <a href="https://whereby.com/zhukovgreen" class="fa fa-video-camera fa-2x"></a>
    <a href="tel:+420-774-081-898" class="fa fa-phone fa-2x"></a>
 </div>
 ----------------------
