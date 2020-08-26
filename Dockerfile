@@ -12,9 +12,10 @@ RUN apk --update --upgrade add gcc \
     git \
     fontconfig \
     ca-certificates \
+    py3-pip \
     py3-lxml \
     gdk-pixbuf
-RUN pip3 install poetry
+RUN pip install poetry
 WORKDIR "/source"
 COPY pyproject.toml poetry.lock /source/
 RUN poetry install
