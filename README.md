@@ -7,15 +7,17 @@ Personal website <https://zhukovgreen.pro>
 - [X] [iam@zhukovgreen.pro](mailto:iam@zhukovgreen.pro)
 - [X] [+420774081898](tel:+420774081898)
 
-Software and machine learning engineer with more than 4 years of
-experience.
+Python Software engineer with more than 4 years of experience.
 
-Interested in web applications, DevOps, infrastructure automation, and
-bots. Compliment projects with machine learning, growing as a professional,
+Interested in web applications, eveything which uses asyncio,
+DevOps, infrastructure automation, bots etc.
+
+Compliment projects with machine learning, growing as a professional,
 learning new technologies, experimenting and building interesting products.
 
 I am pedantic in terms of writing clean and simple code,
-testing and documenting my work.
+testing and documenting my work. And I have a big passion to the
+python asyncio stack.
 
 # Tech stack
 
@@ -38,7 +40,7 @@ Kubernetes)
     `shell scripting`, `git`, `docker`, `gitlab`, `postgresql`, `redis`,
     `celery`, `openapi`,`swagger`, `pre-commit`
 )
-- `vim`, `vim scripting`
+- `vim`
 
 # Free time
 
@@ -50,6 +52,16 @@ I contribute to open-source projects (i.e.
 ), testing different neural nets architectures and learning new things.
 
 # Experience
+
+## Python Software Engineer at Redhat
+
+Dates Employed Apr 2020 - Now
+
+I am working in OS, Application and Modernization Group (OAMG).
+
+Primary responsibilities are:
+- Maintaining contributing to OAMG repositories <https://github.com/oamg>
+
 
 ## System Architect | Machine learning engineer | Software team leader at Remak
 
