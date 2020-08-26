@@ -20,8 +20,17 @@ after_script:
   - docker logout ${CI_REGISTRY}
 
 stages:
+  - lint
   - build
   - deploy
+
+lint:
+  stage: lint
+  image: python:3.8
+  before_script:
+    - pip install pre-commit
+  script:
+    - pre-commit run -av
 
 build:
   stage: build
@@ -49,4 +58,3 @@ pages:
     expire_in: 2 days
   only:
   - master
-

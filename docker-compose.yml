@@ -22,4 +22,3 @@ services:
     volumes:
       - ".:/source"
     command: poetry run mkdocs build
-

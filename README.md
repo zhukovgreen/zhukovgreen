@@ -7,27 +7,27 @@ Personal website <https://zhukovgreen.pro>
 - [X] [iam@zhukovgreen.pro](mailto:iam@zhukovgreen.pro)
 - [X] [+420774081898](tel:+420774081898)
 
-Software and machine learning engineer with more than 4 years of 
+Software and machine learning engineer with more than 4 years of
 experience.
 
-Interested in web applications, DevOps, infrastructure automation, and 
+Interested in web applications, DevOps, infrastructure automation, and
 bots. Compliment projects with machine learning, growing as a professional,
 learning new technologies, experimenting and building interesting products.
 
-I am pedantic in terms of writing clean and simple code, 
+I am pedantic in terms of writing clean and simple code,
 testing and documenting my work.
 
 # Tech stack
 
 - Linux operating systems
-- Containerization, distributed systems, cloud computing (Docker, AWS, 
+- Containerization, distributed systems, cloud computing (Docker, AWS,
 Kubernetes)
 - Software development (
     `web`, `web applications`, `microservices`, `apis`, `bots`,
     `testing`, `code linting`,
 )
 - Backend developer (
-    `python`, `asyncio`, `aiohttp`, `numpy`, `pandas`, `scipy`, `pytorch`, 
+    `python`, `asyncio`, `aiohttp`, `numpy`, `pandas`, `scipy`, `pytorch`,
     `keras`, `scikit-learn`, `xgboost`, `opencv`, `freecad`, `aiogram`
 )
 - Automation (
@@ -35,19 +35,19 @@ Kubernetes)
     `Kubernetes`, `Vagrant`,
 )
 - Other tools (
-    `shell scripting`, `git`, `docker`, `gitlab`, `postgresql`, `redis`, 
+    `shell scripting`, `git`, `docker`, `gitlab`, `postgresql`, `redis`,
     `celery`, `openapi`,`swagger`, `pre-commit`
 )
 - `vim`, `vim scripting`
 
 # Free time
 
-I contribute to open-source projects (i.e. 
-    <https://github.com/cr0hn/aiohttp-cache>, 
+I contribute to open-source projects (i.e.
+    <https://github.com/cr0hn/aiohttp-cache>,
     <https://github.com/webknjaz/docker-freecad-cli>,
-), writing telegram bots (i.e. 
+), writing telegram bots (i.e.
     <https://github.com/ZhukovGreen/gcal_time_track_tg_bot>,
-), testing different neural nets architectures and learning new things. 
+), testing different neural nets architectures and learning new things.
 
 # Experience
 
@@ -68,10 +68,10 @@ Building a software platform to support new products and company processes.
 **Software developer:**
 - building async microservices (Python, aiohttp, Docker, openAPI ...)
     - with the normal pythonic worker
-    - where the worker was a CDLL of .NET assembly and applied 
+    - where the worker was a CDLL of .NET assembly and applied
     different approaches in parallelization
     - numeric microservices where the main worker was a numpy or pytorch model
-    - Automate the openAPI spec definition with the help of swagger, attrs, 
+    - Automate the openAPI spec definition with the help of swagger, attrs,
     marshmallow etc.
 - unit, integration and load testing
     - primary with the pytest
@@ -86,7 +86,7 @@ docker-compose, shell scripting, and Gitlab CI.
 - Writing Ansible and Vagrant scripts to deploy the app on Kubernetes
 - Containerization of different applications for the needs of the team (
     i.e. special cli version of FreeCAD, the image with pythonnet support on
-    Linux and Mono, linux with wine integration to run windows assemblies on 
+    Linux and Mono, linux with wine integration to run windows assemblies on
     linux
 )
 - Building infrastructure automation for development and staging environments
@@ -94,9 +94,9 @@ docker-compose, shell scripting, and Gitlab CI.
 - Setting up app templating, pre-commit hooks for a team
 
 **Machine learning engineer:**
-- applying machine learning to improve user experience. 
+- applying machine learning to improve user experience.
     - Particularly speeding up the calculation processes
-    - Supervise learning, mostly with gradient boosting and partly with the 
+    - Supervise learning, mostly with gradient boosting and partly with the
     combination of neural nets in PyTorch
     - applying optimization with evolutionary algorithms (SciPy + PyTorch)
 
@@ -114,7 +114,7 @@ I was working in a variety of positions within the HVAC industry
 - Technical supervisor on site (~1 years)
 - Ventilation systems installer (~1 year)
 
-# Projects 
+# Projects
 - Air handling units selection engine powered by machine learning (unable to
 share becasue of NDA)
 - Cli utility mimicking docker cp
@@ -125,9 +125,9 @@ share becasue of NDA)
     <https://gitlab.com/zhukovgreen/pozemky>
 - This is how I used to track my time
     <https://github.com/ZhukovGreen/gcal_time_track_tg_bot>
-- Dog breed identification 
+- Dog breed identification
     <https://github.com/ZhukovGreen/dog-project/blob/master/dog_app.ipynb>
-- Reinforcement learning 
+- Reinforcement learning
     <https://github.com/ZhukovGreen/machine-learning/blob/submission/smartcab/projects/smartcab/smartcab/agent.py>
 - Supervise learning problem
     <https://github.com/ZhukovGreen/UMLND/blob/d7a1326247705cac90120c266ca6296e7b19e257/finding_donors/finding_donors.ipynb>
@@ -172,7 +172,7 @@ This is my primary base education. A lot of mathematics, physics, and drawings.
 
 - Udacity: PyTorch Scholarship Challenge from Facebook
 
-- A vast amount of different courses at Udemy, such as data structures and 
+- A vast amount of different courses at Udemy, such as data structures and
 algorithms, PyTorch Reinforcement learning etc.
 
 # Languages

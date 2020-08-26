@@ -17,27 +17,29 @@
 ----------------------
 Hi, my name is Artem Zhukov,
 
-I am a Software engineer and machine learning engineer with more than 4 years of 
-experience.
+Python Software engineer with more than 4 years of experience.
 
-Interested in web applications, DevOps, infrastructure automation, and 
-bots. Compliment projects with machine learning, growing as a professional,
+Interested in web applications, eveything which uses asyncio,
+DevOps, infrastructure automation, bots etc.
+
+Compliment projects with machine learning, growing as a professional,
 learning new technologies, experimenting and building interesting products.
 
-I am pedantic in terms of writing clean and simple code, 
-testing and documenting my work.
+I am pedantic in terms of writing clean and simple code,
+testing and documenting my work. And I have a big passion to the
+python asyncio stack.
 
 # My tech stack
 
 - Linux operating systems
-- Containerization, distributed systems, cloud computing (Docker, AWS, 
+- Containerization, distributed systems, cloud computing (Docker, AWS,
 Kubernetes)
 - Software development (
     `web`, `web applications`, `microservices`, `apis`, `bots`,
     `testing`, `code linting`,
 )
 - Backend developer (
-    `python`, `asyncio`, `aiohttp`, `numpy`, `pandas`, `scipy`, `pytorch`, 
+    `python`, `asyncio`, `aiohttp`, `numpy`, `pandas`, `scipy`, `pytorch`,
     `keras`, `scikit-learn`, `xgboost`, `opencv`, `freecad`, `aiogram`
 )
 - Automation (
@@ -45,20 +47,20 @@ Kubernetes)
     `Kubernetes`, `Vagrant`,
 )
 - Other tools (
-    `shell scripting`, `git`, `docker`, `gitlab`, `postgresql`, `redis`, 
+    `shell scripting`, `git`, `docker`, `gitlab`, `postgresql`, `redis`,
     `celery`, `openapi`,`swagger`, `pre-commit`
 )
 - `vim`, `vim scripting`
 
 # And my free time
 
-I contribute to open-source projects (i.e. 
-    <https://github.com/cr0hn/aiohttp-cache>, 
+I contribute to open-source projects (i.e.
+    <https://github.com/cr0hn/aiohttp-cache>,
     <https://github.com/webknjaz/docker-freecad-cli>,
-), 
+),
 
-writing telegram bots (i.e. 
+writing telegram bots (i.e.
     <https://github.com/ZhukovGreen/gcal_time_track_tg_bot>,
 ),
- 
-testing different neural nets architectures and learning new things. 
+
+testing different neural nets architectures and learning new things.
