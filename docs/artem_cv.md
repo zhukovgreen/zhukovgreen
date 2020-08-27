@@ -9,7 +9,7 @@ Personal website <https://zhukovgreen.pro>
 
 Python Software engineer with more than 4 years of experience.
 
-Interested in web applications, eveything which uses asyncio,
+Interested in web applications, everything which uses asyncio,
 DevOps, infrastructure automation, bots etc.
 
 Compliment projects with machine learning, growing as a professional,
@@ -57,7 +57,7 @@ I contribute to open-source projects (i.e.
 
 Dates Employed Apr 2020 - Now
 
-I am working in OS, Application and Modernization Group (OAMG).
+I am working in OS & App modernization team (OAMG)
 
 Primary responsibilities are:
 - Maintaining contributing to OAMG repositories <https://github.com/oamg>
