@@ -7,23 +7,14 @@ Personal website <https://zhukovgreen.pro>
 - [X] [iam@zhukovgreen.pro](mailto:iam@zhukovgreen.pro)
 - [X] [+420774081898](tel:+420774081898)
 
-Python Software engineer with more than 4 years of experience.
-
-Interested in web applications, everything which uses asyncio,
-DevOps, infrastructure automation, bots etc.
-
-Compliment projects with machine learning, growing as a professional,
-learning new technologies, experimenting and building interesting products.
-
-I am pedantic in terms of writing clean and simple code,
-testing and documenting my work. And I have a big passion to the
-python asyncio stack.
+{!brief_info.md!}
 
 # Tech stack
 
 - Linux operating systems
-- Containerization, distributed systems, cloud computing (Docker, AWS,
-Kubernetes)
+- Containerization, distributed systems, cloud computing (
+    `Docker`, `AWS`, `Kubernetes`
+)
 - Software development (
     `web`, `web applications`, `microservices`, `apis`, `bots`,
     `testing`, `code linting`,
