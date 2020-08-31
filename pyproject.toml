@@ -19,7 +19,7 @@ source = ["aiohttp_cache"]
 source = ["aiohttp_cache/"]
 
 [tool.coverage.report]
-fail_under = 70 # TODO should be 95%
+fail_under = 95
 skip_covered = true
 show_missing = true
 
