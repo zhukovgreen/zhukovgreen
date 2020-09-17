@@ -76,10 +76,10 @@ Building a software platform to support new products and company processes.
     - numeric microservices where the main worker was a numpy or pytorch model
     - Automate the openAPI spec definition with the help of swagger, attrs,
     marshmallow etc.
-- unit, integration and load testing
+- unit, integration, and load testing
     - primary with the pytest
     - API mocking
-    - integration testing for microservices based application
+    - integration testing for microservices-based application
 - documentation and code review
 - setting up CI pipelines for linting, testing, and building images
 
@@ -89,11 +89,11 @@ docker-compose, shell scripting, and Gitlab CI.
 - Writing Ansible and Vagrant scripts to deploy the app on Kubernetes
 - Containerization of different applications for the needs of the team (
     i.e. special cli version of FreeCAD, the image with pythonnet support on
-    Linux and Mono, linux with wine integration to run windows assemblies on
-    linux
+    Linux and Mono, Linux with wine integration to run windows assemblies on
+    Linux
 )
 - Building infrastructure automation for development and staging environments
-- Setting up app monitoring with the help of Gitlab CI, Sentry and some scripting
+- Setting up app monitoring with the help of Gitlab CI, Sentry, and some scripting
 - Setting up app templating, pre-commit hooks for a team
 
 **Machine learning engineer:**
@@ -119,10 +119,10 @@ I was working in a variety of positions within the HVAC industry
 
 # Projects
 - Air handling units selection engine powered by machine learning (unable to
-share becasue of NDA)
-- Cli utility mimicking docker cp
+share because of NDA)
+- CLI utility mimicking docker cp
     <https://github.com/ZhukovGreen/docker-cp>
-- Cli version of FreeCAD
+- CLI version of FreeCAD
     <https://gitlab.com/remak-dva/docker-freecad-cli>
 - This is how I bought  my home
     <https://gitlab.com/zhukovgreen/pozemky>
@@ -148,7 +148,7 @@ Field Of Study CS229: Machine Learning
 Grade NA
 Dates attended or expected graduation 2016 – 2017
 
-I passed through all lectures videos and keynotes, resolved all assignments.
+I passed through all lecture videos and keynotes, resolved all assignments.
 Course syllabus: <http://cs229.stanford.edu/syllabus.html>
 
 ## Udacity
@@ -176,12 +176,12 @@ This is my primary base education. A lot of mathematics, physics, and drawings.
 - Udacity: PyTorch Scholarship Challenge from Facebook
 
 - A vast amount of different courses at Udemy, such as data structures and
-algorithms, PyTorch Reinforcement learning etc.
+algorithms, PyTorch Reinforcement learning, etc.
 
 # Languages
 - Russian - native
-- English - good proffesional level
-- Czech - good proffesional level
+- English - good professional level
+- Czech - good professional level
 
 # Social profiles
 - GitHub <https://github.com/zhukovgreen>
