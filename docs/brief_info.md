@@ -1,7 +1,7 @@
 Python Software engineer with big love to Python3, concurrency and
 static typing.
 
-Interested in building web applications, cli tools, python asyncio,
+Interesting in building web applications, cli tools, python asyncio,
 python data typing, DevOps, MLOps, infrastructure automation, bots etc.
 
 Compliment projects with machine learning, growing as a professional,
