@@ -1,11 +1,10 @@
-Python Software engineer with more than 4 years of experience.
+Python Software engineer with big love to Python.
 
-Interested in web applications, everything which uses python asyncio,
-DevOps, infrastructure automation, bots etc.
+Interested in building web applications, cli tools, python asyncio,
+python data typing, DevOps, MLOps, infrastructure automation, bots etc.
 
 Compliment projects with machine learning, growing as a professional,
 learning new technologies, experimenting and building interesting products.
 
-I am pedantic in terms of writing clean and simple code,
-testing and documenting my work. And I have a big passion to the
-python asyncio stack.
+I am pedantic in terms of writing clean, simple yet efficient code,
+testing and documenting my work.
