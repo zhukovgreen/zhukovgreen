@@ -9,39 +9,9 @@ Personal website <https://zhukovgreen.pro>
 
 {!brief_info.md!}
 
-# Tech stack
+{!tech_stack.md!}
 
-- Linux operating systems
-- Containerization, distributed systems, cloud computing (
-    `Docker`, `AWS`, `Kubernetes`
-)
-- Software development (
-    `web`, `web applications`, `REST API`, `Open API`, `microservices`, `apis`,
-    `bots`, `testing`, `code linting`,
-)
-- Backend developer (
-    `python`, `asyncio`, `aiohttp`, `python typing`, `mypy`, `numpy`, `pandas`,
-    `scipy`, `pytorch`, `keras`, `scikit-learn`, `xgboost`, `opencv`, `freecad`,
-    `aiogram`,
-)
-- Automation (
-    `CI/CD`, `Gitlab CI`, `Ansible`, `docker and docker-compose`,
-    `Kubernetes`, `Vagrant`,
-)
-- Other tools (
-    `bash`, `git`, `docker`, `gitlab`, `postgresql`, `redis`,
-    `celery`, `openapi`,`swagger`, `pre-commit`,
-)
-- `vim`
-
-# Free time
-
-I contribute to open-source projects (i.e.
-    <https://github.com/cr0hn/aiohttp-cache>,
-    <https://github.com/webknjaz/docker-freecad-cli>,
-), writing telegram bots (i.e.
-    <https://github.com/ZhukovGreen/gcal_time_track_tg_bot>,
-), testing different neural nets architectures and learning new things.
+{!free_time.md!}
 
 # Experience
 
