@@ -16,20 +16,21 @@ Personal website <https://zhukovgreen.pro>
     `Docker`, `AWS`, `Kubernetes`
 )
 - Software development (
-    `web`, `web applications`, `microservices`, `apis`, `bots`,
-    `testing`, `code linting`,
+    `web`, `web applications`, `REST API`, `Open API`, `microservices`, `apis`,
+    `bots`, `testing`, `code linting`,
 )
 - Backend developer (
-    `python`, `asyncio`, `aiohttp`, `numpy`, `pandas`, `scipy`, `pytorch`,
-    `keras`, `scikit-learn`, `xgboost`, `opencv`, `freecad`, `aiogram`
+    `python`, `asyncio`, `aiohttp`, `python typing`, `mypy`, `numpy`, `pandas`,
+    `scipy`, `pytorch`, `keras`, `scikit-learn`, `xgboost`, `opencv`, `freecad`,
+    `aiogram`,
 )
 - Automation (
-    `CI/CD`, `Gitlab CI`, `Circle CI`, `Ansible`, `Python`, `docker-compose`,
+    `CI/CD`, `Gitlab CI`, `Ansible`, `docker and docker-compose`,
     `Kubernetes`, `Vagrant`,
 )
 - Other tools (
-    `shell scripting`, `git`, `docker`, `gitlab`, `postgresql`, `redis`,
-    `celery`, `openapi`,`swagger`, `pre-commit`
+    `bash`, `git`, `docker`, `gitlab`, `postgresql`, `redis`,
+    `celery`, `openapi`,`swagger`, `pre-commit`,
 )
 - `vim`
 
@@ -52,6 +53,7 @@ I am working in OS & App modernization team (OAMG)
 
 Primary responsibilities are:
 - Maintaining contributing to OAMG repositories <https://github.com/oamg>
+- Building data delivery microservices
 
 
 ## System Architect | Machine learning engineer | Software team leader at Remak
@@ -124,7 +126,7 @@ share because of NDA)
     <https://github.com/ZhukovGreen/docker-cp>
 - CLI version of FreeCAD
     <https://gitlab.com/remak-dva/docker-freecad-cli>
-- This is how I bought  my home
+- This is how I bought my home
     <https://gitlab.com/zhukovgreen/pozemky>
 - This is how I used to track my time
     <https://github.com/ZhukovGreen/gcal_time_track_tg_bot>
