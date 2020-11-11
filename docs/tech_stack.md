@@ -9,7 +9,7 @@
     `bots`, `testing`, `code linting`,
 )
 - Backend developer (
-    `python`, `asyncio`, `aiohttp`, `fast api`, `mypy`,
+    `python`, `asyncio`, `aiohttp`, `fastapi`, `mypy`,
     `numpy`, `pandas`, `scipy`, `pytorch`, `keras`, `scikit-learn`,
         `xgboost`, `opencv`,
     `freecad`,
