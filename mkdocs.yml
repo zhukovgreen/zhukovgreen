@@ -13,11 +13,10 @@ edit_uri: ''
 
 nav:
   - About me: 'index.md'
-  - CV: 'artem_cv.md'
   - Calendar: 'calendar.md'
-  - Downloads: 'downloads.md'
 
 markdown_extensions:
+  - pymdownx.details
   - markdown.extensions.codehilite:
       guess_lang: false
   - markdown_include.include:

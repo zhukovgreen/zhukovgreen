@@ -1,60 +1,28 @@
-image: tmaier/docker-compose:18.09
-services:
-  - docker:19.03-dind
-
-cache:
-  paths:
-    - ${CI_PROJECT_DIR}/.cache
-
-variables:
-  IMAGE_TAG: ${CI_REGISTRY_IMAGE}/${CI_COMMIT_REF_NAME}:${CI_COMMIT_SHA}
-  DEPLOY_TAG: ${CI_REGISTRY_IMAGE}/${CI_COMMIT_REF_NAME}:latest
-
-before_script:
-  - docker version
-  - docker-compose version
-  - docker login -u gitlab-ci-token -p ${CI_JOB_TOKEN} ${CI_REGISTRY}
-
-after_script:
-  - docker images
-  - docker logout ${CI_REGISTRY}
+image: playpauseandstop/docker-python:4.1.0-py39
 
 stages:
-  - lint
   - build
   - deploy
 
-lint:
-  stage: lint
-  image: python:3.8
-  before_script:
-    - pip install pre-commit
-  script:
-    - pre-commit run -av
-
-build:
+build:pages:
   stage: build
+  before_script:
+    - poetry install
+    - poetry shell
   script:
-    - docker-compose build --pull
-    - docker push ${IMAGE_TAG}
-    - docker tag ${IMAGE_TAG} ${DEPLOY_TAG}
-    - docker push ${DEPLOY_TAG}
-
-deploy:
-  stage: deploy
-  script:
-    - docker-compose pull -q
-    - docker-compose run pdf_generator
+    - mkdocs build
+  artifacts:
+    paths:
+      - "./site"
+    expire_in: 1 days
 
 pages:
   stage: deploy
   script:
-  - docker-compose pull -q
-  - docker-compose run deploy_pages
   - mv site public
   artifacts:
     paths:
     - public
-    expire_in: 2 days
+    expire_in: 1 days
   only:
   - master
