@@ -17,6 +17,8 @@ build:pages:
 
 pages:
   stage: deploy
+  dependencies:
+    - build:pages
   script:
   - mv site public
   artifacts:
