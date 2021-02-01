@@ -58,18 +58,10 @@ description = ""
 authors = ["ZhukovGreen <zhukovgreen@icloud.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.6"
-pygithub = "^1.46"
-envparse = "^0.2.0"
-gitpython = "^3.0.8"
+python = "^3.9"
 mkdocs = "^1.0.4"
 markdown-include = "^0.5.1"
 mkdocs-material = "^4.6.3"
-weasyprint = "^51"
-
-[tool.poetry.dev-dependencies]
-pytest = "^6.0.0"
-neovim = "^0.3.1"
 
 [build-system]
 requires = ["poetry>=1.0.3"]
