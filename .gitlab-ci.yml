@@ -8,9 +8,8 @@ build:pages:
   stage: build
   before_script:
     - poetry install
-    - poetry shell
   script:
-    - mkdocs build
+    - poetry run mkdocs build
   artifacts:
     paths:
       - "./site"
