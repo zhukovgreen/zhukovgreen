@@ -53,124 +53,123 @@ python data typing, dev-ops, ml-ops, etc.
 - Using asyncio for building cli applications (PyAmsterdam 2020) - <https://py.amsterdam/2020/10/15/virtual-pyamsterdamnowtzzoneinfoeuropeamsterdam-stayathome.html>
 - HVAC engineer and Python (Pycon CZ 2018) - <https://youtu.be/KAZn2Fhh7f4?t=324>
 
-??? "Other details"
-    # Experience
-    
-    ## Python Software Engineer at Redhat
-    
-    Dates Employed Apr 2020 - Now
-    
-    I am working in OS & App modernization team (OAMG)
-    
-    Primary responsibilities are:
-    - Maintaining contributing to OAMG repositories <https://github.com/oamg>
-    - Building data delivery microservices
-    
-    
-    ## System Architect | Machine learning engineer | Software team leader at Remak
-    
-    Dates Employed Jan 2016 – Jan 2020
-    
-    Employment Duration 4 yrs 1 mos
-    
-    Building a software platform to support new products and company processes.
-    
-    
-    **Team leadership:**
-    - leading the team of 4 developers
-    - specified sprint epics, controlling team progress, reporting to the client
-    - determining backend architecture and technological stack
-    
-    **Software developer:**
-    - building async microservices (Python, aiohttp, Docker, openAPI ...)
-      - with the normal pythonic worker
-      - where the worker was a CDLL of .NET assembly and applied
-        different approaches in parallelization
-      - numeric microservices where the main worker was a numpy or pytorch model
-      - Automate the openAPI spec definition with the help of swagger, attrs,
-        marshmallow etc.
-    - unit, integration, and load testing
-      - primary with the pytest
-      - API mocking
-      - integration testing for microservices-based application
-    - documentation and code review
-    - setting up CI pipelines for linting, testing, and building images
-    
-    **DevOps:**
-    - Setting up automatic deployment system with the help of Gitlab runners,
-      docker-compose, shell scripting, and Gitlab CI.
-    - Writing Ansible and Vagrant scripts to deploy the app on Kubernetes
-    - Containerization of different applications for the needs of the team (
-      i.e. special cli version of FreeCAD, the image with pythonnet support on
-      Linux and Mono, Linux with wine integration to run windows assemblies on
-      Linux
-      )
-    - Building infrastructure automation for development and staging environments
-    - Setting up app monitoring with the help of Gitlab CI, Sentry, and some scripting
-    - Setting up app templating, pre-commit hooks for a team
-    
-    **Machine learning engineer:**
-    - applying machine learning to improve user experience.
-      - Particularly speeding up the calculation processes
-      - Supervise learning, mostly with gradient boosting and partly with the
-        combination of neural nets in PyTorch
-      - applying optimization with evolutionary algorithms (SciPy + PyTorch)
-    
-    ## HVAC (heating, ventilation and air conditioning) professional
-    
-    Dates Employed May 2006 – Aug 2016
-    
-    Employment Duration 10 yrs 3 mos
-    
-    I was working in a variety of positions within the HVAC industry
-    - Compact Air Handling Units (AHU) project manager (~ 1 year)
-    - AHU technical support (~1 year)
-    - HVAC designer (~5 years)
-    - Energy modeler for LEED certification (~ 1 year)
-    - Technical supervisor on site (~1 years)
-    - Ventilation systems installer (~1 year)
-    
-    # Education
-    
-    ## Stanford University Online
-    
-    Degree Name Online Education
-    Field Of Study CS229: Machine Learning
-    Grade NA
-    Dates attended or expected graduation 2016 – 2017
-    
-    I passed through all lecture videos and keynotes, resolved all assignments.
-    Course syllabus: <http://cs229.stanford.edu/syllabus.html>
-    
-    ## Udacity
-    
-    Degree Name Nano-degree
-    Field Of Study Machine Learning
-    Grade Nano-degree
-    Dates attended or expected graduation 2016 – 2018
-    
-    <https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009>
-    
-    
-    ## Donbass State Academy of Civil Engineering and Architecture
-    
-    Degree Name Master’s Degree
-    Field Of Study Mechanical Engineering (HVAC)
-    Grade M.Sc. in heating, ventilation, air conditioning systems
-    Dates attended or expected graduation 2002 – 2008
-    
-    This is my primary base education. A lot of mathematics, physics, and drawings.
-    
-    
-    # Courses
-    
-    - Udacity: PyTorch Scholarship Challenge from Facebook
-    
-    - A vast amount of different courses at Udemy, such as data structures and
-      algorithms, PyTorch Reinforcement learning, etc.
-    
-    # Languages
-    - Russian - native
-    - English - good professional level
-    - Czech - good professional level
-    
+# Experience
+
+## Python Software Engineer at Redhat
+
+Dates Employed Apr 2020 - Now
+
+I am working in OS & App modernization team (OAMG)
+
+Primary responsibilities are:
+- Maintaining contributing to OAMG repositories <https://github.com/oamg>
+- Building data delivery microservices
+
+
+## System Architect | Machine learning engineer | Software team leader at Remak
+
+Dates Employed Jan 2016 – Jan 2020
+
+Employment Duration 4 yrs 1 mos
+
+Building a software platform to support new products and company processes.
+
+
+**Team leadership:**
+- leading the team of 4 developers
+- specified sprint epics, controlling team progress, reporting to the client
+- determining backend architecture and technological stack
+
+**Software developer:**
+- building async microservices (Python, aiohttp, Docker, openAPI ...)
+  - with the normal pythonic worker
+  - where the worker was a CDLL of .NET assembly and applied
+    different approaches in parallelization
+  - numeric microservices where the main worker was a numpy or pytorch model
+  - Automate the openAPI spec definition with the help of swagger, attrs,
+    marshmallow etc.
+- unit, integration, and load testing
+  - primary with the pytest
+  - API mocking
+  - integration testing for microservices-based application
+- documentation and code review
+- setting up CI pipelines for linting, testing, and building images
+
+**DevOps:**
+- Setting up automatic deployment system with the help of Gitlab runners,
+  docker-compose, shell scripting, and Gitlab CI.
+- Writing Ansible and Vagrant scripts to deploy the app on Kubernetes
+- Containerization of different applications for the needs of the team (
+  i.e. special cli version of FreeCAD, the image with pythonnet support on
+  Linux and Mono, Linux with wine integration to run windows assemblies on
+  Linux
+  )
+- Building infrastructure automation for development and staging environments
+- Setting up app monitoring with the help of Gitlab CI, Sentry, and some scripting
+- Setting up app templating, pre-commit hooks for a team
+
+**Machine learning engineer:**
+- applying machine learning to improve user experience.
+  - Particularly speeding up the calculation processes
+  - Supervise learning, mostly with gradient boosting and partly with the
+    combination of neural nets in PyTorch
+  - applying optimization with evolutionary algorithms (SciPy + PyTorch)
+
+## HVAC (heating, ventilation and air conditioning) professional
+
+Dates Employed May 2006 – Aug 2016
+
+Employment Duration 10 yrs 3 mos
+
+I was working in a variety of positions within the HVAC industry
+- Compact Air Handling Units (AHU) project manager (~ 1 year)
+- AHU technical support (~1 year)
+- HVAC designer (~5 years)
+- Energy modeler for LEED certification (~ 1 year)
+- Technical supervisor on site (~1 years)
+- Ventilation systems installer (~1 year)
+
+# Education
+
+## Stanford University Online
+
+Degree Name Online Education
+Field Of Study CS229: Machine Learning
+Grade NA
+Dates attended or expected graduation 2016 – 2017
+
+I passed through all lecture videos and keynotes, resolved all assignments.
+Course syllabus: <http://cs229.stanford.edu/syllabus.html>
+
+## Udacity
+
+Degree Name Nano-degree
+Field Of Study Machine Learning
+Grade Nano-degree
+Dates attended or expected graduation 2016 – 2018
+
+<https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009>
+
+
+## Donbass State Academy of Civil Engineering and Architecture
+
+Degree Name Master’s Degree
+Field Of Study Mechanical Engineering (HVAC)
+Grade M.Sc. in heating, ventilation, air conditioning systems
+Dates attended or expected graduation 2002 – 2008
+
+This is my primary base education. A lot of mathematics, physics, and drawings.
+
+
+# Courses
+
+- Udacity: PyTorch Scholarship Challenge from Facebook
+
+- A vast amount of different courses at Udemy, such as data structures and
+  algorithms, PyTorch Reinforcement learning, etc.
+
+# Languages
+- Russian - native
+- English - good professional level
+- Czech - good professional level
+
