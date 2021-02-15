@@ -44,6 +44,9 @@ python data typing, dev-ops, ml-ops, etc.
 
 # Examples of my work
 
+I contribute to open-source:
+<img src="http://ghchart.rshah.org/zhukovgreen"/>
+
 - async cli app for processing huge stream of logs - <https://gitlab.com/zhukovgreen/radar_assignment>
 - example of data analysis - <https://gitlab.com/zhukovgreen/creditcards_analysis>
 - telegram bot for processing dat afrom your google calendar - <https://github.com/ZhukovGreen/gcal_time_track_tg_bot>
