@@ -23,19 +23,21 @@ python data typing, dev-ops, ml-ops, etc.
 # Tech stack
 
 - Linux operating systems
-- Containerization, distributed systems, cloud computing, ci-cd (
-  `docker`, `aws`, `kubernetes`, `openstack`, `openshift`, `gitlab-ci`,
+- Containers, VMs, distributed systems, cloud computing (
+  `docker|docker-compose`, `kubernetes`, `openshift`, `openstack`, `aws`,
+  `vagrant|libvirt`,
   )
 - Software development (
   `web`, `web applications`, `rest apis`, `open api`, `microservices`, `apis`,
   `bots`, `testing`, `linting`,
   )
 - Backend developer (
-  `python`, `asyncio`, `aiohttp`, `fast_api`, `mypy`,
+  `python`, `pytest`, `asyncio`, `aiohttp`, `fastapi`, `mypy`,
   `numpy`, `pandas`, `scipy`, `pytorch`, `scikit-learn`, `xgboost`,
+  `vim`, `pycharm`,
   )
 - Automation (
-  `gitlab-ci`,  `docker`, `docker-compose`,
+  `ansible`, `gitlab-ci`, `github actions`, 
   `kubernetes`, `vagrant`, `bash`,
   )
 - Databases (
@@ -47,12 +49,13 @@ python data typing, dev-ops, ml-ops, etc.
 I contribute to open-source:
 <img src="http://ghchart.rshah.org/zhukovgreen"/>
 
-- async cli app for processing huge stream of logs - <https://gitlab.com/zhukovgreen/radar_assignment>
+- async cli app for processing big files with logs - <https://gitlab.com/zhukovgreen/radar_assignment>
 - example of data analysis - <https://gitlab.com/zhukovgreen/creditcards_analysis>
-- telegram bot for processing dat afrom your google calendar - <https://github.com/ZhukovGreen/gcal_time_track_tg_bot>
+- telegram bot for processing data from your google calendar - <https://github.com/ZhukovGreen/gcal_time_track_tg_bot>
 
 # My talks
 
+- My talks I keep here - <https://github.com/ZhukovGreen/talks>
 - Using asyncio for building cli applications (PyAmsterdam 2020) - <https://py.amsterdam/2020/10/15/virtual-pyamsterdamnowtzzoneinfoeuropeamsterdam-stayathome.html>
 - HVAC engineer and Python (Pycon CZ 2018) - <https://youtu.be/KAZn2Fhh7f4?t=324>
 
@@ -66,7 +69,10 @@ I am working in OS & App modernization team (OAMG)
 
 Primary responsibilities are:
 - Maintaining contributing to OAMG repositories <https://github.com/oamg>
-- Building data delivery microservices
+- Developed a data delivery system (
+    internal framework to distribute various data to its clients
+  )
+- Working on convert2rhel utility (new features and CI)
 
 
 ## System Architect | Machine learning engineer | Software team leader at Remak
@@ -175,4 +181,3 @@ This is my primary base education. A lot of mathematics, physics, and drawings.
 - Russian - native
 - English - good professional level
 - Czech - good professional level
-
