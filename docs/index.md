@@ -1,4 +1,3 @@
-# About me
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div style="width:35%; margin:0 auto">
    <img src="./me.jpg">
@@ -12,13 +11,28 @@
    <a href="https://whereby.com/zhukovgreen" class="fa fa-video-camera fa-2x"></a>
 </div>
 ----------------------
-Hello, my name is Artem Zhukov,
+# BIO
 
-I am Python Software engineer with big love to modern python, concurrency and
-static typing.
+Artem graduated in 2008 from Donbas National Academy of Civil Engineering with
+master degree in mechanical engineering.
 
-Interesting in building web applications, ml models, cli tools, python asyncio,
-python data typing, dev-ops, ml-ops, etc.
+Being always a software engineer and mathematician by heart it took 8 years 
+though to transition to the world of software development.
+
+In 2016 Artem started a project where quickly migrated from the product owner
+role into the team lead and software developer. With extensive educational 
+program in computer science, machine learning and python programming language,
+in 2019, Artem were able to work independently as a software engineer. 
+In 2020 he was creating architectures for all software company products and 
+implemented them together with his team.
+
+In 2021, Artem completely converged into Python Software engineer 
+with big love and respect to modern Python3, concurrency and typing.
+
+Interesting in software architectures, web applications, ml models, cli tools, 
+dev-ops, ml-ops, ci etc.
+
+He is always learning and applying.
 
 # Tech stack
 
@@ -69,17 +83,15 @@ I am working in OS & App modernization team (OAMG)
 
 Primary responsibilities are:
 - Maintaining contributing to OAMG repositories <https://github.com/oamg>
-- Developed a data delivery system (
+- Developing a data delivery system (
     internal framework to distribute various data to its clients
   )
-- Working on convert2rhel utility (new features and CI)
+- Working on convert2rhel utility (new features and the CI)
 
 
 ## System Architect | Machine learning engineer | Software team leader at Remak
 
 Dates Employed Jan 2016 – Jan 2020
-
-Employment Duration 4 yrs 1 mos
 
 Building a software platform to support new products and company processes.
 
@@ -128,8 +140,6 @@ Building a software platform to support new products and company processes.
 
 Dates Employed May 2006 – Aug 2016
 
-Employment Duration 10 yrs 3 mos
-
 I was working in a variety of positions within the HVAC industry
 - Compact Air Handling Units (AHU) project manager (~ 1 year)
 - AHU technical support (~1 year)
@@ -173,7 +183,6 @@ This is my primary base education. A lot of mathematics, physics, and drawings.
 # Courses
 
 - Udacity: PyTorch Scholarship Challenge from Facebook
-
 - A vast amount of different courses at Udemy, such as data structures and
   algorithms, PyTorch Reinforcement learning, etc.
 
