@@ -1,14 +1,15 @@
+# Social profiles
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<div style="width:35%; margin:0 auto">
-   <img src="./me.jpg">
-   <a href="https://t.me/zhukovgreen" class="fa fa-telegram fa-2x"></a>
-   <a href="https://twitter.com/zhukovgreen" class="fa fa-twitter fa-2x"></a>
-   <a href="https://github.com/zhukovgreen" class="fa fa-github fa-2x"></a>
-   <a href="https://gitlab.com/zhukovgreen" class="fa fa-gitlab fa-2x"></a>
-   <a href="https://stackoverflow.com/users/4351027/artem-zhukov" class="fa fa-stack-overflow fa-2x"></a>
-   <a href="https://www.linkedin.com/in/artem-zhukov-0556b422/" class="fa fa-linkedin fa-2x"></a>
-   <a href="mailto:iam@zhukovgreen.pro" class="fa fa-envelope-open fa-2x"></a>
-   <a href="https://whereby.com/zhukovgreen" class="fa fa-video-camera fa-2x"></a>
+<div style="width:100%; text-align:center; margin:0 auto; display: inline-block;">
+   <a href="https://t.me/zhukovgreen" class="fa fa-telegram fa-5x"></a>
+   <a href="https://twitter.com/zhukovgreen" class="fa fa-twitter fa-5x"></a>
+   <a href="https://github.com/zhukovgreen" class="fa fa-github fa-5x"></a>
+   <a href="https://gitlab.com/zhukovgreen" class="fa fa-gitlab fa-5x"></a>
+   <a href="https://stackoverflow.com/users/4351027/artem-zhukov" class="fa fa-stack-overflow fa-5x"></a>
+   <a href="https://www.linkedin.com/in/artem-zhukov-0556b422/" class="fa fa-linkedin fa-5x"></a>
+   <a href="mailto:iam@zhukovgreen.pro" class="fa fa-envelope-open fa-5x"></a>
+   <a href="https://whereby.com/zhukovgreen" class="fa fa-video-camera fa-5x"></a>
 </div>
 ----------------------
 # BIO
@@ -27,26 +28,25 @@ In 2020 he was creating architectures for all software company products and
 implemented them together with his team.
 
 In 2021, Artem completely converged into Python Software engineer 
-with big love and respect to modern Python3, concurrency and typing.
+with big love to modern Python3, concurrency and typing.
 
-Interesting in software architectures, web applications, ml models, cli tools, 
+Interested in software architectures, web applications, ml models, cli tools, 
 dev-ops, ml-ops, ci etc.
 
 He is always learning and applying.
 
 # Tech stack
 
-- Linux operating systems
-- Containers, VMs, distributed systems, cloud computing (
-  `docker|docker-compose`, `kubernetes`, `openshift`, `openstack`, `aws`,
-  `vagrant|libvirt`,
+- Linux OS
+- Containers, VMs, distributed systems, clouds (
+  `docker`, `kubernetes`, `openshift`, `aws`,
   )
 - Software development (
-  `web`, `web applications`, `rest apis`, `open api`, `microservices`, `apis`,
-  `bots`, `testing`, `linting`,
+  `python`, `web applications`, `rest apis`, `open api`, `microservices`, `ci`, 
+  `concurrency`,
   )
 - Backend developer (
-  `python`, `pytest`, `asyncio`, `aiohttp`, `fastapi`, `mypy`,
+  `pytest`, `asyncio`, `aiohttp`, `fastapi`, `mypy`,
   `numpy`, `pandas`, `scipy`, `pytorch`, `scikit-learn`, `xgboost`,
   `vim`, `pycharm`,
   )
@@ -55,7 +55,7 @@ He is always learning and applying.
   `kubernetes`, `vagrant`, `bash`,
   )
 - Databases (
-  `postgres`, `redis`,
+  `nosql`, `sql`, `postgres`, `redis`,
   )
 
 # Examples of my work
