@@ -85,6 +85,10 @@ CI system for developing and running integration tests
 Developing new features in the upstream project, code review. Adopting pytest,
 transition the app to python3, mentoring.
 
+A note from the promotion document:
+
+```Artem joined Red Hat during the spring of 2020 as a software developer working on the LEAPP team. Artem’s enthusiasm for Python and pythonic development practices soon led him to adopt an advocacy role on his team. Artem transitioned to the Convert2RHEL team in early 2021, and rapidly became one of the team’s most prolific contributors. He continued to broaden his reach beyond his SST by creating a hardware deprecation database and associated microservice which helps to take the mystery out of hardware support. Artem’s creativity and energy have made him a true asset to his teams.
+```
 
 ## Software Engineer at Redhat
 
