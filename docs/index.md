@@ -24,14 +24,14 @@ In 2016 Artem started a project where quickly migrated from the product owner
 role into the team lead and software developer. With extensive educational 
 program in computer science, machine learning and python programming language,
 in 2019, Artem were able to work independently as a software engineer. 
-In 2020 he was creating architectures for all software company products and 
-implemented them together with his team.
+In 2020, with a help of his team, he was creating architectures for all 
+software company products and implemented them together with his team.
 
 In 2021, Artem completely converged into Python Software engineer 
-with big love to modern Python3, concurrency and typing.
+with the passion to modern Python3, concurrency and typing.
 
-Interested in software architectures, web applications, ml models, cli tools, 
-dev-ops, ml-ops, ci etc.
+Interested in software architectures, data engineering, web applications, 
+ml models, cli tools, dev-ops, ml-ops, ci etc.
 
 He is always learning and applying.
 
@@ -75,9 +75,20 @@ I contribute to open-source:
 
 # Experience
 
-## Python Software Engineer at Redhat
+## Senior Software Engineer at Redhat
 
-Dates Employed Apr 2020 - Now
+Dates Employed Jul 2021 - present
+
+Working in the Convert2RHEL team. Designing the simple, but specific and reach
+CI system for developing and running integration tests 
+(libvirt, ansible, testing farm, tmt). 
+Developing new features in the upstream project, code review. Adopting pytest,
+transition the app to python3, mentoring.
+
+
+## Software Engineer at Redhat
+
+Dates Employed Apr 2020 - June 2020
 
 I am working in OS & App modernization team (OAMG)
 
