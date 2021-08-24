@@ -31,32 +31,38 @@ In 2021, Artem completely converged into Python Software engineer
 with the passion to modern Python3, concurrency and typing.
 
 Interested in software architectures, data engineering, web applications, 
-ml models, cli tools, dev-ops, ml-ops, ci etc.
+ml architectures, cli tools, dev-ops, ml-ops, ci etc.
 
 He is always learning and applying.
 
 # Tech stack
 
+```
 - Linux OS
-- Containers, VMs, distributed systems, clouds (
-  `docker`, `kubernetes`, `openshift`, `aws`,
+- Programing languages (
+    `python`, `scala`, `bash`,
+  )
+- Cloud native applications (
+    `docker`, `kubernetes`, `openshift`,
   )
 - Software development (
-  `python`, `web applications`, `rest apis`, `open api`, `microservices`, `ci`, 
-  `concurrency`,
+    `web applications`, `apis`, `microservices`, 
+    `cli tools`, `concurrency|asyncio`,
   )
-- Backend developer (
-  `pytest`, `asyncio`, `aiohttp`, `fastapi`, `mypy`,
-  `numpy`, `pandas`, `scipy`, `pytorch`, `scikit-learn`, `xgboost`,
-  `vim`, `pycharm`,
-  )
-- Automation (
-  `ansible`, `gitlab-ci`, `github actions`, 
-  `kubernetes`, `vagrant`, `bash`,
+- Contnious delivery and orchestration (
+    `ansible`, `gitlab-ci`, `github actions`, 
   )
 - Databases (
-  `nosql`, `sql`, `postgres`, `redis`,
+    `postgres`, `redis`,
   )
+- Data and ml tools (
+    `numpy`, `pandas`, `scipy`, `pytorch`, `scikit-learn`, `xgboost`,
+  )
+- Other (
+    `pytest`, `asyncio`, `aiohttp`, `fastapi`, `mypy`,
+    `vim`,
+  )
+```
 
 # Examples of my work
 
@@ -69,15 +75,19 @@ I contribute to open-source:
 
 # My talks
 
-- My talks I keep here - <https://github.com/ZhukovGreen/talks>
+- My talks repo - <https://github.com/ZhukovGreen/talks>
 - Using asyncio for building cli applications (PyAmsterdam 2020) - <https://py.amsterdam/2020/10/15/virtual-pyamsterdamnowtzzoneinfoeuropeamsterdam-stayathome.html>
 - HVAC engineer and Python (Pycon CZ 2018) - <https://youtu.be/KAZn2Fhh7f4?t=324>
 
 # Experience
 
+## Data Engineer at Absa
+
+Dates Employed Aug 2021 - present
+
 ## Senior Software Engineer at Redhat
 
-Dates Employed Jul 2021 - present
+Dates Employed Jul 2021 - Aug 2021
 
 Working in the Convert2RHEL team. Designing the simple, but specific and reach
 CI system for developing and running integration tests 
@@ -87,7 +97,13 @@ transition the app to python3, mentoring.
 
 A note from the promotion document:
 
-```Artem joined Red Hat during the spring of 2020 as a software developer working on the LEAPP team. Artem’s enthusiasm for Python and pythonic development practices soon led him to adopt an advocacy role on his team. Artem transitioned to the Convert2RHEL team in early 2021, and rapidly became one of the team’s most prolific contributors. He continued to broaden his reach beyond his SST by creating a hardware deprecation database and associated microservice which helps to take the mystery out of hardware support. Artem’s creativity and energy have made him a true asset to his teams.
+```
+Artem joined Red Hat during the spring of 2020 as a software developer working on the LEAPP team. 
+Artem’s enthusiasm for Python and pythonic development practices soon led him to adopt an advocacy role on his team. 
+Artem transitioned to the Convert2RHEL team in early 2021, and rapidly became one of the team’s most 
+prolific contributors. He continued to broaden his reach beyond his SST by creating a hardware deprecation database 
+and associated microservice which helps to take the mystery out of hardware support. 
+Artem’s creativity and energy have made him a true asset to his teams.
 ```
 
 ## Software Engineer at Redhat
