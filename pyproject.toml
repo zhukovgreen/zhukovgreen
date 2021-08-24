@@ -60,8 +60,8 @@ authors = ["ZhukovGreen <zhukovgreen@icloud.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 mkdocs = "^1.0.4"
-markdown-include = "^0.5.1"
-mkdocs-material = "^4.6.3"
+markdown-include = "^0.6.0"
+mkdocs-material = "^7.2.4"
 
 [build-system]
 requires = ["poetry>=1.0.3"]
