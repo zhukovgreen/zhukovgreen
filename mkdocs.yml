@@ -26,3 +26,4 @@ markdown_extensions:
   - extra
   - toc:
       permalink: true
+      baselevel: 2
