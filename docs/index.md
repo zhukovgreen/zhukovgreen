@@ -67,6 +67,7 @@ He is always learning and applying.
 # Examples of my work
 
 I contribute to open-source:
+
 <img src="http://ghchart.rshah.org/zhukovgreen"/>
 
 - async cli app for processing big files with logs - <https://gitlab.com/zhukovgreen/radar_assignment>
@@ -122,52 +123,12 @@ Primary responsibilities are:
 - Working on convert2rhel utility (new features and the CI)
 
 
-## System Architect | Machine learning engineer | Software team leader at Remak
+## Software engineer abd tech lead at Remak
 
 Dates Employed Jan 2016 – Jan 2020
 
 Building a software platform to support new products and company processes.
 
-
-**Team leadership:**
-- leading the team of 4 developers
-- specified sprint epics, controlling team progress, reporting to the client
-- determining backend architecture and technological stack
-
-**Software developer:**
-- building async microservices (Python, aiohttp, Docker, openAPI ...)
-  - with the normal pythonic worker
-  - where the worker was a CDLL of .NET assembly and applied
-    different approaches in parallelization
-  - numeric microservices where the main worker was a numpy or pytorch model
-  - Automate the openAPI spec definition with the help of swagger, attrs,
-    marshmallow etc.
-- unit, integration, and load testing
-  - primary with the pytest
-  - API mocking
-  - integration testing for microservices-based application
-- documentation and code review
-- setting up CI pipelines for linting, testing, and building images
-
-**DevOps:**
-- Setting up automatic deployment system with the help of Gitlab runners,
-  docker-compose, shell scripting, and Gitlab CI.
-- Writing Ansible and Vagrant scripts to deploy the app on Kubernetes
-- Containerization of different applications for the needs of the team (
-  i.e. special cli version of FreeCAD, the image with pythonnet support on
-  Linux and Mono, Linux with wine integration to run windows assemblies on
-  Linux
-  )
-- Building infrastructure automation for development and staging environments
-- Setting up app monitoring with the help of Gitlab CI, Sentry, and some scripting
-- Setting up app templating, pre-commit hooks for a team
-
-**Machine learning engineer:**
-- applying machine learning to improve user experience.
-  - Particularly speeding up the calculation processes
-  - Supervise learning, mostly with gradient boosting and partly with the
-    combination of neural nets in PyTorch
-  - applying optimization with evolutionary algorithms (SciPy + PyTorch)
 
 ## HVAC (heating, ventilation and air conditioning) professional
 
