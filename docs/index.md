@@ -123,7 +123,7 @@ Primary responsibilities are:
 - Working on convert2rhel utility (new features and the CI)
 
 
-## Software engineer abd tech lead at Remak
+## Software engineer and tech lead at Remak
 
 Dates Employed Jan 2016 – Jan 2020
 
