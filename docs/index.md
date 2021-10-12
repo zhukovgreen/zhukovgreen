@@ -77,7 +77,7 @@ I contribute to open-source:
 # My talks
 
 - My talks repo - <https://github.com/ZhukovGreen/talks>
-- DevConf.US 2021 - Framework for integration tests lifecycle https://www.youtube.com/watch?v=K7VcLnHRz0w&list=PLU1vS0speL2ZbTPg-aU2Rw2s6IPsTVoCF&index=60
+- DevConf.US 2021 - Framework for integration tests lifecycle <https://www.youtube.com/watch?v=K7VcLnHRz0w&list=PLU1vS0speL2ZbTPg-aU2Rw2s6IPsTVoCF&index=60>
 - Using asyncio for building cli applications (PyAmsterdam 2020) - <https://py.amsterdam/2020/10/15/virtual-pyamsterdamnowtzzoneinfoeuropeamsterdam-stayathome.html>
 - HVAC engineer and Python (Pycon CZ 2018) - <https://youtu.be/KAZn2Fhh7f4?t=324>
 
