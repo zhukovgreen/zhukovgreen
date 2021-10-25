@@ -11,7 +11,8 @@
    <a href="mailto:iam@zhukovgreen.pro" class="fa fa-envelope-open fa-5x"></a>
    <a href="https://whereby.com/zhukovgreen" class="fa fa-video-camera fa-5x"></a>
 </div>
-----------------------
+
+
 # BIO
 
 Artem graduated in 2008 from Donbas National Academy of Civil Engineering with
