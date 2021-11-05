@@ -13,7 +13,6 @@ edit_uri: ''
 
 nav:
   - About me: 'index.md'
-  - Calendar: 'calendar.md'
 
 markdown_extensions:
   - pymdownx.details
