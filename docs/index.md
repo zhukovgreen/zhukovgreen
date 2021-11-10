@@ -1,3 +1,4 @@
+
 # Social profiles
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -11,7 +12,6 @@
    <a href="mailto:iam@zhukovgreen.pro" class="fa fa-envelope-open fa-5x"></a>
    <a href="https://whereby.com/zhukovgreen" class="fa fa-video-camera fa-5x"></a>
 </div>
-
 
 # BIO
 
@@ -37,6 +37,13 @@ ml architectures, cli tools, dev-ops, ml-ops, ci etc.
 He is always learning and applying.
 
 # Tech stack
+
+<div style="width:100%; text-align:center; margin:0 auto; display: inline-block;">
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=zhukovgreen&hide=Jupyter%20Notebook,HTML&layout=compact&count_private=true&theme=vue>
+
+  <img src=https://github-readme-stats.vercel.app/api?username=zhukovgreen&show_icons=true&include_all_commits=true&count_private=true&theme=vue>
+</div>
+
 
 ```
 - Linux OS
