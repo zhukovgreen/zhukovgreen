@@ -38,11 +38,9 @@ He is always learning and applying.
 
 # Tech stack
 
-<div style="width:100%; text-align:center; margin:0 auto; display: inline-block;">
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=zhukovgreen&hide=Jupyter%20Notebook,HTML&layout=compact&count_private=true&theme=vue>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=zhukovgreen&hide=Jupyter%20Notebook,HTML&layout=compact&count_private=true&theme=vue>
 
-  <img src=https://github-readme-stats.vercel.app/api?username=zhukovgreen&show_icons=true&include_all_commits=true&count_private=true&theme=vue>
-</div>
+<img src=https://github-readme-stats.vercel.app/api?username=zhukovgreen&show_icons=true&include_all_commits=true&count_private=true&theme=vue>
 
 
 ```
