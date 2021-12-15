@@ -74,7 +74,7 @@ He is always learning and applying.
 
 I contribute to open-source:
 
-<img src="http://ghchart.rshah.org/zhukovgreen"/>
+<img src="https://ghchart.rshah.org/zhukovgreen"/>
 
 - async cli app for processing big files with logs - <https://gitlab.com/zhukovgreen/radar_assignment>
 - example of data analysis - <https://gitlab.com/zhukovgreen/creditcards_analysis>
