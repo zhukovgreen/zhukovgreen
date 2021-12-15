@@ -28,13 +28,13 @@ in 2019, Artem were able to work independently as a software engineer.
 In 2020, with a help of his team, he was creating architectures for all 
 software company products and implemented them together with his team.
 
-In 2021, Artem completely converged into Python Software engineer 
-with the passion to modern Python3, concurrency and typing.
+In 2021, Artem joins Red Hat as a Python Software engineer.
 
-Interested in software architectures, data engineering, web applications, 
-ml architectures, cli tools, dev-ops, ml-ops, ci etc.
+Interested in data engineering, functional programming, 
+distributed architectures,  scalability, web applications,
+application testing
 
-He is always learning and applying.
+
 
 # Tech stack
 
@@ -46,27 +46,21 @@ He is always learning and applying.
 ```
 - Linux OS
 - Programming languages (
-    `python`, `scala`, `bash`,
+    `python`, `scala`,
   )
 - Cloud native applications (
-    `docker`, `kubernetes`, `openshift`,
+    `docker`, `kubernetes`,
   )
 - Software development (
     `web applications`, `apis`, `microservices`, 
-    `cli tools`, `concurrency|asyncio`,
+    `cli tools`, `concurrency`,
   )
-- Contnious delivery and orchestration (
-    `ansible`, `gitlab-ci`, `github actions`, 
-  )
-- Databases (
-    `postgres`, `redis`,
+- Continues delivery and orchestration (
+    `gitlab-ci`, `github actions`, `ansible`,
   )
 - Data and ml tools (
-    `numpy`, `pandas`, `scipy`, `pytorch`, `scikit-learn`, `xgboost`,
-  )
-- Other (
-    `pytest`, `asyncio`, `aiohttp`, `fastapi`, `mypy`,
-    `vim`,
+    `spark`, `hadoop`, `airflow`, `dagster`,
+    `numpy`, `pandas`, `pytorch`, `scikit-learn`, `xgboost`,
   )
 ```
 
