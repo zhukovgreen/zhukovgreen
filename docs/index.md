@@ -15,26 +15,22 @@
 
 # BIO
 
-Artem graduated in 2008 from Donbas National Academy of Civil Engineering with
-master degree in mechanical engineering.
+I am a software and data engineer, started a professional IT carrier in 2016.
+Having extensive experience in production, big-scale deployments, big data, etc.
 
-Being always a software engineer and mathematician by heart it took 8 years 
-though to transition to the world of software development.
+Currently, I am developing software in python and scala. Constantly learning.
+I pay attention to testing applications (unit, integration, e2e), CI, and deployment and have
+relatively good experience in building these systems.
 
-In 2016 Artem started a project where quickly migrated from the product owner
-role into the team lead and software developer. With extensive educational 
-program in computer science, machine learning and python programming language,
-in 2019, Artem were able to work independently as a software engineer. 
-In 2020, with a help of his team, he was creating architectures for all 
-software company products and implemented them together with his team.
+I am giving talks in various conferences and at the time of writing the most significant is:
+DevConf.US (<http://DevConf.US>) 2021 - Framework for integration tests lifecycle
+<https://www.youtube.com/watch?v=K7VcLnHRz0w&list=PLU1vS0speL2ZbTPg-
+aU2Rw2s6IPsTVoCF&index=60> (https://www.youtube.com/watch?v=K7VcLnHRz0w&
+list=PLU1vS0speL2ZbTPg-aU2Rw2s6IPsTVoCF&index=60).
 
-In 2021, Artem joins Red Hat as a Python Software engineer.
-
-Interested in data engineering, functional programming, 
-distributed architectures,  scalability, web applications,
-application testing
-
-
+Interested in software architectures, data engineering, functional programming, 
+distributed systems, scalability, web applications,
+application testing.
 
 # Tech stack
 
