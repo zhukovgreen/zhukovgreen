@@ -24,9 +24,7 @@ relatively good experience in building these systems.
 
 I am giving talks in various conferences and at the time of writing the most significant is:
 DevConf.US (<http://DevConf.US>) 2021 - Framework for integration tests lifecycle
-<https://www.youtube.com/watch?v=K7VcLnHRz0w&list=PLU1vS0speL2ZbTPg-
-aU2Rw2s6IPsTVoCF&index=60> (https://www.youtube.com/watch?v=K7VcLnHRz0w&
-list=PLU1vS0speL2ZbTPg-aU2Rw2s6IPsTVoCF&index=60).
+<https://www.youtube.com/watch?v=K7VcLnHRz0w&list=PLU1vS0speL2ZbTPg-aU2Rw2s6IPsTVoCF&index=60>
 
 Interested in software architectures, data engineering, functional programming, 
 distributed systems, scalability, web applications,
