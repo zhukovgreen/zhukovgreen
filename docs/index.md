@@ -43,7 +43,7 @@ application testing.
     `python`, `scala`,
   )
 - Cloud native applications (
-    `docker`, `kubernetes`,
+    `docker`, `kubernetes`, `aws*`,
   )
 - Software development (
     `web applications`, `apis`, `microservices`, 
@@ -172,6 +172,7 @@ This is my primary base education. A lot of mathematics, physics, and drawings.
 # Courses
 
 - Udacity: PyTorch Scholarship Challenge from Facebook
+- AWS trainings (Big Data, Data Lakes, Developing with AWS)
 - A vast amount of different courses at Udemy, such as data structures and
   algorithms, PyTorch Reinforcement learning, etc.
 
