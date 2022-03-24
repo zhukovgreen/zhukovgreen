@@ -66,7 +66,6 @@ I contribute to open-source:
 
 - async cli app for processing big files with logs - <https://gitlab.com/zhukovgreen/radar_assignment>
 - example of data analysis - <https://gitlab.com/zhukovgreen/creditcards_analysis>
-- telegram bot for processing data from your google calendar - <https://github.com/ZhukovGreen/gcal_time_track_tg_bot>
 
 # My talks
 
@@ -173,8 +172,8 @@ This is my primary base education. A lot of mathematics, physics, and drawings.
 
 - Udacity: PyTorch Scholarship Challenge from Facebook
 - AWS trainings (Big Data, Data Lakes, Developing with AWS)
-- A vast amount of different courses at Udemy, such as data structures and
-  algorithms, PyTorch Reinforcement learning, etc.
+- A vast amount of different courses at Udemy/Coursera, such as data structures and
+  algorithms, functional programming, PyTorch Reinforcement learning, etc.
 
 # Languages
 - Russian - native
