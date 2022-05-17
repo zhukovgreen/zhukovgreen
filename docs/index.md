@@ -76,9 +76,14 @@ I contribute to open-source:
 
 # Experience
 
-## Data Engineer at Absa
+## Senior Data Engineer at Absa
 
 Dates Employed Aug 2021 - present
+
+Developing and building components of on-premise system for convenient big data ETL processes, 
+together with abstractions around data warehouse for the data scientists (feature centric interfaces).
+Apart of these work, I was developing different data transformations for different projects, and
+maintaining one existing project.
 
 ## Senior Software Engineer at Redhat
 
