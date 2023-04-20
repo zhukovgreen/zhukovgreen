@@ -16,19 +16,21 @@
 # BIO
 
 I am a software and data engineer, started a professional IT carrier in 2016.
-Having extensive experience in production, big-scale deployments, big data, etc.
+Within the data engineering, at the time of writing, I mostly like working
+with Apache Spark when working with the data. I also love and use functional programming,
+python's mypy, software architectures, distributed systems and python's asyncio.
 
-Currently, I am developing software in python and scala. Constantly learning.
-I pay attention to testing applications (unit, integration, e2e), CI, and deployment and have
-relatively good experience in building these systems.
+I am writing tests before the implementation. And I am terrible in quick and dirty
+tasks. My last three projects are used by many people and keep evolving even if I
+dropped maintaining them.
+
+I had various and very different experience with the CI/CD systems and clouds, building
+and maintaining various on-prem systems as well as systems built on top of AWS.
 
 I am giving talks in various conferences and at the time of writing the most significant is:
 DevConf.US (<http://DevConf.US>) 2021 - Framework for integration tests lifecycle
-<https://www.youtube.com/watch?v=K7VcLnHRz0w&list=PLU1vS0speL2ZbTPg-aU2Rw2s6IPsTVoCF&index=60>
-
-Interested in software architectures, data engineering, functional programming, 
-distributed systems, scalability, web applications,
-application testing.
+<https://www.youtube.com/watch?v=K7VcLnHRz0w&list=PLU1vS0speL2ZbTPg-aU2Rw2s6IPsTVoCF&index=60>.
+Also participating in python/data meetups.
 
 # Tech stack
 
@@ -37,35 +39,13 @@ application testing.
 ![](https://github-readme-stats.vercel.app/api?username=zhukovgreen&show_icons=true&include_all_commits=true&count_private=true&theme=vue)
 
 
-```
-- Linux OS
-- Programming languages (
-    `python`, `scala`,
-  )
-- Cloud native applications (
-    `docker`, `kubernetes`, `aws*`,
-  )
-- Software development (
-    `web applications`, `apis`, `microservices`, 
-    `cli tools`, `concurrency`,
-  )
-- Continues delivery and orchestration (
-    `gitlab-ci`, `github actions`, `ansible`,
-  )
-- Data and ml tools (
-    `spark`, `hadoop`, `airflow`, `dagster`,
-    `numpy`, `pandas`, `pytorch`, `scikit-learn`, `xgboost`,
-  )
-```
-
 # Examples of my work
-
-I contribute to open-source:
 
 <img src="https://ghchart.rshah.org/zhukovgreen"/>
 
-- async cli app for processing big files with logs - <https://gitlab.com/zhukovgreen/radar_assignment>
-- example of data analysis - <https://gitlab.com/zhukovgreen/creditcards_analysis>
+I am maintaining multiple OSS projects, and the latest project
+I've built is pramen-py <https://github.com/AbsaOSS/pramen/tree/main/pramen-py>.
+I think it is awesome project and I am using it quite often.
 
 # My talks
 
@@ -74,11 +54,20 @@ I contribute to open-source:
 - Using asyncio for building cli applications (PyAmsterdam 2020) - <https://py.amsterdam/2020/10/15/virtual-pyamsterdamnowtzzoneinfoeuropeamsterdam-stayathome.html>
 - HVAC engineer and Python (Pycon CZ 2018) - <https://youtu.be/KAZn2Fhh7f4?t=324>
 
+
 # Experience
+
+## Senior Data Engineer at Paylocity
+
+Dates Employed Aug 2022 - present
+
+Participating in designing and building a new data platform, 
+developing its components. 
+Writing ETL pipelines and infrastructure as a code (pulumi)
 
 ## Senior Data Engineer at Absa
 
-Dates Employed Aug 2021 - present
+Dates Employed Aug 2021 - Aug 2022
 
 Developing and building components of on-premise system for convenient big data ETL processes, 
 together with abstractions around data warehouse for the data scientists (feature centric interfaces).
