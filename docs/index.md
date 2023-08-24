@@ -15,22 +15,15 @@
 
 # BIO
 
-I am a software and data engineer, started a professional IT carrier in 2016.
-Within the data engineering, at the time of writing, I mostly like working
-with Apache Spark when working with the data. I also love and use functional programming,
-python's mypy, software architectures, distributed systems and python's asyncio.
+I am a software and data engineer who started a professional IT career in 2016.
+Within data engineering, I have relatively good experience working with Apache Spark, Delta, and Databricks. I also love and use functional programming, Python's mypy, software architectures, distributed systems, and Python's asyncio. 
 
-I am writing tests before the implementation. And I am terrible in quick and dirty
-tasks. My last three projects are used by many people and keep evolving even if I
-dropped maintaining them.
+I am writing tests before the implementation almost every time. And I am terrible at quick and dirty tasks. My last three projects are used by many people and keep evolving even if I dropped maintaining them.
 
 I had various and very different experience with the CI/CD systems and clouds, building
 and maintaining various on-prem systems as well as systems built on top of AWS.
 
-I am giving talks in various conferences and at the time of writing the most significant is:
-DevConf.US (<http://DevConf.US>) 2021 - Framework for integration tests lifecycle
-<https://www.youtube.com/watch?v=K7VcLnHRz0w&list=PLU1vS0speL2ZbTPg-aU2Rw2s6IPsTVoCF&index=60>.
-Also participating in python/data meetups.
+I gave talks at various conferences and I also participated in Python/data meetups.
 
 # Tech stack
 
@@ -43,9 +36,11 @@ Also participating in python/data meetups.
 
 <img src="https://ghchart.rshah.org/zhukovgreen"/>
 
-I am maintaining multiple OSS projects, and the latest project
-I've built is pramen-py <https://github.com/AbsaOSS/pramen/tree/main/pramen-py>.
-I think it is awesome project and I am using it quite often.
+I am maintaining multiple OSS projects and the latest project
+I've built pramen-py <https://github.com/AbsaOSS/pramen/tree/main/pramen-py>.
+I think it is an awesome project and I am using it quite often.
+
+One other project that addresses the testing convenience is <https://github.com/zhukovgreen/pytest-when> 
 
 # My talks
 
