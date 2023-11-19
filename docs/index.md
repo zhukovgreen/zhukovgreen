@@ -4,7 +4,8 @@ I am a software and data engineer who started a professional IT career in 2016.
 Within data engineering, I have good experience working with
 Apache Spark, Delta.io, and Databricks. I also love and use functional 
 programming in most of my projects;, Python's mypy, software architectures, 
-distributed systems, and concurrent programming.
+distributed systems, and concurrent programming. My main language is Python, but
+also I work in Scala.
 
 I had various and very different experience with building Data Lakes
 (primary Databricks), ELT pipelines, Testing tools, CI/CD systems, 
