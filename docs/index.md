@@ -1,11 +1,18 @@
 # BIO
 
-I am a software and data engineer who started a professional IT career in 2016.
+I am a software, data and machine learning engineer who started a professional
+IT career in 2016.
 Within data engineering, I have good experience working with
 Apache Spark, Delta Lake, and Databricks as a platform. I also love and use
 functional programming in most of my projects;
 Python's mypy, software architectures, distributed systems, and
 concurrent programming. My main language is Python, but also I work in Scala.
+
+I like working with the big data, eventing and efficiency of these processes.
+Within big data I was participating in building multiple systems from scratch,
+as well as evolving existing systems. I was building data quality systems,
+data observability a data serving systems. As well as many frameworks which
+simplifies the interaction of the Data Science teams with the data.
 
 I had various and very different experience with building Data Lakes
 (primary Databricks or Delta Lake on hdfs), ELT pipelines, Testing tools,
@@ -40,9 +47,9 @@ But one of my favorite which is small but very powerful is
 <https://github.com/zhukovgreen/friendly-sequences>. This is type-safe library
 for functions chaining.
 
-Within Paylocity I built many interesting frameworks for the data quality
-systems, feature store and declarative schema evolution framework, new CI/CD
-system and many other interesting and useful projects.
+Within Paylocity apart I built many interesting frameworks for the data quality
+systems, feature store and declarative schema evolution, new CI/CD
+system, IaC based frameworks and many other interesting and useful projects.
 
 # My talks
 
@@ -54,9 +61,14 @@ system and many other interesting and useful projects.
 - Using asyncio for building cli applications (PyAmsterdam 2020) -
   <https://py.amsterdam/2020/10/15/virtual-pyamsterdamnowtzzoneinfoeuropeamsterdam-stayathome.html>
 - HVAC engineer and Python (Pycon CZ
-  2018) - <https://youtu.be/KAZn2Fhh7f4?t=324>
+    2018)
+        - <https://youtu.be/KAZn2Fhh7f4?t=324>
 
 # Experience
+
+## Staff Machine Learning Engineer at Paylocity
+
+Dates Employed Feb 2025 - present
 
 ## Senior Data Engineer at Paylocity
 
