@@ -130,7 +130,7 @@ Artem’s creativity and energy have made him a true asset to his teams.
 
 ## Software Engineer at Redhat
 
-Dates Employed Apr 2020 - June 2020
+Dates Employed Apr 2020 - June 2021
 
 I am working in OS & App modernization team (OAMG)
 
