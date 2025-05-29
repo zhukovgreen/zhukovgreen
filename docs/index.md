@@ -8,6 +8,9 @@ functional programming in most of my projects;
 Python's mypy, software architectures, distributed systems, and
 concurrent programming. My main language is Python, but also I work in Scala.
 
+I love software development and spend all my free time reading and learning
+about it.
+
 I like working with the big data, eventing and efficiency of these processes.
 Within big data I was participating in building multiple systems from scratch,
 as well as evolving existing systems. I was building data quality systems,
@@ -21,8 +24,8 @@ CI/CD systems, clouds (mostly AWS), RHEL, Centos.
 I am big advocate for software testing. Generally, I am working on solving
 complex problems, building system architectures and frameworks.
 
-My last three projects are used by many people and keep evolving even if I
-dropped maintaining them.
+I have quite big experience working with Data Scientists, building different
+frameworks to help them doing their job faster and better.
 
 I prefer reading books and get a deep understanding of technologies.
 
