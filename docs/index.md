@@ -2,32 +2,33 @@
 
 I am a software, data and machine learning engineer who started a professional
 IT career in 2016.
-Within data engineering, I have good experience working with
-Apache Spark, Delta Lake, and Databricks as a platform. I also love and use
-functional programming in most of my projects;
-Python's mypy, software architectures, distributed systems, and
-concurrent programming. My main language is Python, but also I work in Scala.
+
+Good experience working with Apache Spark, Data Lakes/Warehouses, Databricks,
+AWS,
+CICDs, ML/DevOps, IAC etc.
+
+Strong expertise Static type checking, software architectures, distributed
+systems, and
+concurrent programming and event driven architectures.
+
+Main language is Python, but also I work in Scala. Using functional programming
+in most of my projects;
+
+Participated in building many company wide systems from scratch.
+Such as data platforms (data quality, data observability, feature store,
+transformations saas etc.).
+
+Involved in many infrastructure projects around LLMs. Build from scratch LLMs
+load
+balancer and router. This is the coolest project I ever built.
+
+Big advocate for software testing. Generally, I am working on solving
+complex problems, building system architectures and frameworks.
 
 I love software development and spend all my free time reading and learning
 about it.
 
-I like working with the big data, eventing and efficiency of these processes.
-Within big data I was participating in building multiple systems from scratch,
-as well as evolving existing systems. I was building data quality systems,
-data observability a data serving systems. As well as many frameworks which
-simplifies the interaction of the Data Science teams with the data.
-
-I had various and very different experience with building Data Lakes
-(primary Databricks or Delta Lake on hdfs), ELT pipelines, Testing tools,
-CI/CD systems, clouds (mostly AWS), RHEL, Centos.
-
-I am big advocate for software testing. Generally, I am working on solving
-complex problems, building system architectures and frameworks.
-
-I have quite big experience working with Data Scientists, building different
-frameworks to help them doing their job faster and better.
-
-I prefer reading books and get a deep understanding of technologies.
+Also, prefering reading books and get a deep understanding of technologies.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhukovgreen&hide=Jupyter%20Notebook,HTML&layout=compact&count_private=true&theme=vue)
 
@@ -49,10 +50,6 @@ One other project that addresses the testing convenience is
 But one of my favorite which is small but very powerful is
 <https://github.com/zhukovgreen/friendly-sequences>. This is type-safe library
 for functions chaining.
-
-Within Paylocity apart I built many interesting frameworks for the data quality
-systems, feature store and declarative schema evolution, new CI/CD
-system, IaC based frameworks and many other interesting and useful projects.
 
 # My talks
 
