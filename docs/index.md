@@ -28,7 +28,7 @@ complex problems, building system architectures and frameworks.
 I love software development and spend all my free time reading and learning
 about it.
 
-Also, prefering reading books and get a deep understanding of technologies.
+Also, preferring reading books and get a deep understanding of technologies.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhukovgreen&hide=Jupyter%20Notebook,HTML&layout=compact&count_private=true&theme=vue)
 
