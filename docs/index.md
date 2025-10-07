@@ -3,6 +3,12 @@
 Software, data, and machine learning engineer with professional IT experience
 since 2016.
 
+Strongly technical leader with proven expertise in designing and evolving enterprise-wide
+architectures. Experienced in driving cross-team collaboration, establishing architectural
+standards, and leading systems adoption at company scale. Track record of making strategic
+technical decisions that balance business needs with long-term maintainability, scalability,
+and operational excellence.
+
 Participated in building many company-wide systems from scratch, including:
 
 - data platforms for Data Scientists
